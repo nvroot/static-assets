@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#D50C2D;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g id="Ebene_2">
-	<circle class="st0" cx="256" cy="256" r="256"/>
-	<path class="st1" d="M395.6,105.3h-42.1c-9.5,0-13.5,3.9-13.5,13.5v106.6H172.2V118.9c0-9.5-3.9-13.5-13.5-13.5h-42.4
-		c-9.6,0-13.5,3.9-13.5,13.5v274.2c0,9.6,3.9,13.5,13.5,13.5h42.4c9.5,0,13.5-3.8,13.5-13.5V284.8h167.9v108.3
-		c0,9.5,3.9,13.5,13.5,13.5h42.1c9.5,0,13.5-3.9,13.5-13.5V118.9C409,109.7,405.1,105.3,395.6,105.3z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>simple-icons:hetzner</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="simple-icons:hetzner" transform="translate(0.0002, 0)">
+            <rect id="ViewBox" x="0" y="0" width="180" height="180" rx="16"></rect>
+            <path d="M0,16 L0,164 C1.77635684e-15,172.836556 7.163444,180 16,180 L164,180 C172.836556,180 180,172.836556 180,164 L180,16 C180,7.163444 172.836556,-3.55271368e-15 164,0 L16,0 C7.163444,1.77635684e-15 0,7.163444 0,16 Z" id="Path" fill="#D50C2D" fill-rule="nonzero"></path>
+            <path d="M34.515,30.1875 L51.345,30.1875 C55.1625,30.1875 56.715,31.8 56.715,35.565 L56.715,77.865 L123.3375,77.865 L123.3375,35.565 C123.3375,31.7475 124.95,30.1875 128.715,30.1875 L145.4325,30.1875 C149.1825,30.1875 150.7575,31.9125 150.8625,35.565 L150.8625,144.435 C150.8625,148.2525 149.25,149.8125 145.485,149.8125 L128.76,149.8125 C124.935,149.8125 123.3825,148.2 123.3825,144.435 L123.3825,101.4225 L56.715,101.4225 L56.715,144.435 C56.715,148.305 55.1025,149.8125 51.345,149.8125 L34.515,149.8125 C30.69,149.8125 29.1375,148.2525 29.1375,144.435 L29.1375,35.565 C29.1375,31.7475 30.69,30.1875 34.515,30.1875" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
 </svg>
