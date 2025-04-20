@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>havoc-c2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="havoc-c2">
+            <rect id="box" fill="#161616" x="0" y="0" width="256" height="256" rx="44"></rect>
+            <polyline id="line" stroke="#FFFFFF" stroke-width="9" stroke-linecap="square" points="84.5 48.5 84.5 123.074051 149.172469 85.7870257"></polyline>
+            <polyline id="line" stroke="#FFFFFF" stroke-width="9" stroke-linecap="square" transform="translate(138.8362, 170.787) rotate(180) translate(-138.8362, -170.787)" points="106.5 133.5 106.5 208.074051 171.172469 170.787026"></polyline>
+            <polyline id="line" stroke="#FFFFFF" stroke-width="9" stroke-linecap="square" transform="translate(111.8362, 178.6115) rotate(180) translate(-111.8362, -178.6115)" points="138.836235 131.148964 138.836235 193.391333 84.8362347 226.074051"></polyline>
+            <polyline id="line" stroke="#FFFFFF" stroke-width="9" stroke-linecap="square" points="170.836235 30.1489638 170.836235 92.3913326 116.836235 125.074051"></polyline>
+        </g>
+    </g>
+</svg>
