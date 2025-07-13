@@ -1,1 +1,37 @@
-<svg height="1em" style="flex:none;line-height:1" viewBox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Kling</title><path d="M5.412 13.775A23.193 23.193 0 017.41 9.32c3.17-5.492 7.795-8.757 10.33-7.294C12.038-1.266 4.598.944 1.122 6.964A13.378 13.378 0 00.085 9.22c-.259.739.092 1.534.77 1.926l4.557 2.63z" fill="url(#lobe-icons-kling-fill-0)"></path><path d="M18.588 10.164a23.188 23.188 0 01-1.999 4.455c-3.17 5.492-7.795 8.758-10.33 7.294 5.703 3.293 13.143 1.082 16.619-4.938a13.392 13.392 0 001.037-2.255c.259-.738-.092-1.534-.77-1.925l-4.557-2.63z" fill="url(#lobe-icons-kling-fill-1)"></path><path d="M16.59 14.62c3.17-5.492 3.686-11.13 1.15-12.594C15.207.563 10.582 3.83 7.41 9.32c2.074-3.59 5.809-5.315 8.344-3.852 2.534 1.464 2.908 5.56.835 9.151z" fill="url(#lobe-icons-kling-fill-2)"></path><path d="M7.41 9.32c-3.17 5.492-3.686 11.13-1.15 12.593 2.534 1.464 7.159-1.802 10.33-7.294-2.074 3.591-5.809 5.316-8.344 3.852-2.534-1.463-2.908-5.56-.835-9.15z" fill="url(#lobe-icons-kling-fill-3)"></path><defs><radialGradient cx="0" cy="0" gradientTransform="matrix(7.47772 -12.51022 17.14368 10.24728 5.173 13.637)" gradientUnits="userSpaceOnUse" id="lobe-icons-kling-fill-0" r="1"><stop offset=".095" stop-color="#FFF959"></stop><stop offset=".326" stop-color="#0DF35E"></stop><stop offset=".64" stop-color="#0BF2F9"></stop><stop offset="1" stop-color="#04A6F0"></stop></radialGradient><radialGradient cx="0" cy="0" gradientTransform="rotate(120.868 6.491 10.491) scale(14.5747 19.9728)" gradientUnits="userSpaceOnUse" id="lobe-icons-kling-fill-1" r="1"><stop offset=".095" stop-color="#FFF959"></stop><stop offset=".326" stop-color="#0DF35E"></stop><stop offset=".64" stop-color="#0BF2F9"></stop><stop offset="1" stop-color="#04A6F0"></stop></radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-kling-fill-2" x1="15.578" x2="18.062" y1="1.798" y2="9.861"><stop stop-color="#003EFF"></stop><stop offset="1" stop-color="#0BFFE7"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-kling-fill-3" x1="8.422" x2="5.938" y1="22.142" y2="14.079"><stop stop-color="#003EFF"></stop><stop offset="1" stop-color="#0BFFE7"></stop></linearGradient></defs></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <radialGradient cx="29.1617141%" cy="98.9529997%" fx="29.1617141%" fy="98.9529997%" r="109.784063%" gradientTransform="translate(0.2916, 0.9895), scale(0.7483, 1), rotate(-59.1303), translate(-0.2916, -0.9895)" id="radialGradient-1">
+            <stop stop-color="#FFF959" offset="9.5%"></stop>
+            <stop stop-color="#0DF35E" offset="32.6%"></stop>
+            <stop stop-color="#0BF2F9" offset="64%"></stop>
+            <stop stop-color="#04A6F0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="70.8357109%" cy="1.03930539%" fx="70.8357109%" fy="1.03930539%" r="109.78582%" gradientTransform="translate(0.7084, 0.0104), scale(0.7483, 1), rotate(120.8672), translate(-0.7084, -0.0104)" id="radialGradient-2">
+            <stop stop-color="#FFF959" offset="9.5%"></stop>
+            <stop stop-color="#0DF35E" offset="32.6%"></stop>
+            <stop stop-color="#0BF2F9" offset="64%"></stop>
+            <stop stop-color="#04A6F0" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="65.7579348%" y1="0.936985529%" x2="83.5670713%" y2="63.231876%" id="linearGradient-3">
+            <stop stop-color="#003EFF" offset="0%"></stop>
+            <stop stop-color="#0BFFE7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.2420652%" y1="99.0670542%" x2="16.4329287%" y2="36.7696234%" id="linearGradient-4">
+            <stop stop-color="#003EFF" offset="0%"></stop>
+            <stop stop-color="#0BFFE7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="kling-color" transform="translate(21, 25)" fill-rule="nonzero">
+                <path d="M44.8481141,109.991714 C49.0525217,97.1393912 54.6018517,84.7667136 61.4038788,73.0793053 C87.6710332,27.5747148 125.994563,0.522186031 147,12.6440389 C99.7522669,-14.6322014 38.1031729,3.67900486 9.30045098,53.5583994 C5.86289427,59.5093527 2.98625572,65.7670789 0.707694194,72.2507439 C-1.43842346,78.3738125 1.4700217,84.9608754 7.08804398,88.2088359 L44.8481141,110 L44.8481141,109.991714 Z" id="Path" fill="url(#radialGradient-1)"></path>
+                <path d="M154.154414,80 C149.947889,92.8533085 144.396076,105.226546 137.591297,116.913957 C111.325623,162.420455 73.0042533,189.482405 52,177.351757 C99.2533557,204.637427 160.898975,186.317167 189.700073,136.435681 C193.136376,130.486819 196.012817,124.23168 198.292346,117.750839 C200.438342,111.6358 197.530061,105.040175 191.912356,101.800364 L154.154414,80.008286 L154.154414,80 Z" id="Path" fill="url(#radialGradient-2)"></path>
+                <path d="M137.114309,117 C163.397791,71.5985134 167.676112,24.9900682 146.649326,12.8874141 C125.647415,0.793026827 87.3000642,27.8007939 61,73.1857468 C78.1961958,43.5077903 109.164273,29.2474909 130.182767,41.3418782 C151.192969,53.4445323 154.293923,87.3055099 137.106018,116.991733 L137.114309,117 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                <path d="M61.8856905,74 C35.6022089,119.403338 31.3238882,166.013684 52.3506735,178.108564 C73.3608762,190.211712 111.708227,163.211111 138,117.807773 C120.803804,147.495207 89.8357273,161.756088 68.8172333,149.65294 C47.8070307,137.558059 44.7060773,103.687434 61.8939818,74.0082672 L61.8856905,74 Z" id="Path" fill="url(#linearGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="box" fill="#FFFFFF" x="0" y="0" width="240" height="240" rx="31"></rect>
+            <g id="parasail" transform="translate(45, 45)" fill="#000000">
+                <path d="M0,99 C28.1698785,99 51,121.833579 51,150 L0,150 L0,99 Z" id="Path"></path>
+                <path d="M0,48.0516209 L0,48.1641191 C56.250123,48.1641191 101.837723,93.7508943 101.837723,150 L101.956473,150 L101.843973,149.775004 C122.656518,148.525023 157.244094,134.481497 148.656575,89.9009555 C137.175762,46.6098153 103.357793,12.8020012 60.0626313,1.33361366 C15.5125339,-7.21625041 1.46875321,27.3394502 0.225000492,48.1516193 L0,48.0516209 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
