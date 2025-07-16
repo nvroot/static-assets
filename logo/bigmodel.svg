@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="370px" height="426px" viewBox="0 0 370 426" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="87.5002395%" y1="44.775706%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2153DD" offset="0%"></stop>
+            <stop stop-color="#988EFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="12.5%" y1="43.1445731%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#968DFE" offset="0%"></stop>
+            <stop stop-color="#2354DE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="87.5002395%" y2="56.1010823%" id="linearGradient-3">
+            <stop stop-color="#2E98E0" offset="0%"></stop>
+            <stop stop-color="#A190FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="12.5%" y2="55.6946553%" id="linearGradient-4">
+            <stop stop-color="#9C8EFE" offset="0%"></stop>
+            <stop stop-color="#2262DD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.536, 0)">
+            <path d="M184.464,0 L184.464,51 C184.464,140.470129 111.934129,213 22.464,213 L0,213 L0.000588993914,106.5 L184.464,0 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M184.464,0 L368.927411,106.5 L368.927,213 L346.464,213 C256.993871,213 184.464,140.470129 184.464,51 L184.464,0 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+            <path d="M22.464,213 C111.934129,213 184.464,285.529871 184.464,375 L184.464,426 L0.000588993915,319.5 L0,213 L22.464,213 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+            <path d="M368.927,213 L368.927411,319.5 L184.464,426 L184.464,375 C184.464,285.529871 256.993871,213 346.464,213 L368.927,213 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+        </g>
+    </g>
+</svg>
