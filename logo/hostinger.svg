@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hostinger</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hostinger">
+            <rect id="box" fill="#2F1C6A" x="0" y="0" width="240" height="240" rx="32"></rect>
+            <path d="M150,40 L150,87.5416213 L189,110 L189,59.5721176 L150,40 Z M53,39 L53,114 L179,114 L140.662205,92.998467 L90.7280377,92.9765676 L90.7280377,59.18578 L53,39 Z M150.267204,179.157651 L150.267204,145.486277 L99.963446,145.447751 C100.007379,145.673401 61,124 61,124 L189,124.605402 L189,200 L150.267204,179.157651 Z M53,130 L53,179.22836 L90,199 L90,152.142037 L53,130 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
