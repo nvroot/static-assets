@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cartesia</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cartesia">
+            <rect id="box" fill="#FFFFFF" x="0" y="0" width="240" height="240" rx="32"></rect>
+            <g id="shape" transform="translate(38, 48)" fill="#000000" fill-rule="nonzero">
+                <rect id="Rectangle" x="55" y="0" width="27" height="24"></rect>
+                <rect id="Rectangle" x="110" y="0" width="27" height="24"></rect>
+                <rect id="Rectangle" x="28" y="25" width="27" height="24"></rect>
+                <rect id="Rectangle" x="82" y="25" width="27" height="24"></rect>
+                <rect id="Rectangle" x="137" y="25" width="27" height="24"></rect>
+                <rect id="Rectangle" x="0" y="49" width="27" height="24"></rect>
+                <rect id="Rectangle" x="55" y="49" width="27" height="24"></rect>
+                <rect id="Rectangle" x="0" y="72" width="27" height="24"></rect>
+                <rect id="Rectangle" x="55" y="72" width="27" height="24"></rect>
+                <rect id="Rectangle" x="28" y="96" width="27" height="24"></rect>
+                <rect id="Rectangle" x="82" y="96" width="27" height="24"></rect>
+                <rect id="Rectangle" x="137" y="96" width="27" height="24"></rect>
+                <rect id="Rectangle" x="55" y="121" width="27" height="24"></rect>
+                <rect id="Rectangle" x="110" y="121" width="27" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="221px" height="240px" viewBox="0 0 221 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>plandex</title>
+    <defs>
+        <linearGradient x1="47.5602035%" y1="34.6847152%" x2="57.8359035%" y2="89.8204759%" id="linearGradient-1">
+            <stop stop-color="#B49AFA" offset="0%"></stop>
+            <stop stop-color="#EC6EF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.5602035%" y1="34.6847152%" x2="57.8359035%" y2="89.8204759%" id="linearGradient-2">
+            <stop stop-color="#63F8E6" offset="0%"></stop>
+            <stop stop-color="#62F0B7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="plandex" transform="translate(0, -0)">
+            <path d="M98,1 L97.999,61.437 L49.5632184,120.5 L98,179.562 L98,240 L-6.35511802e-16,120.5 L98,1 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M221,2.84217094e-14 L220.999,60.437 L172.563218,119.5 L221,178.562 L221,239 L123,119.5 L221,2.84217094e-14 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-2)" transform="translate(172, 119.5) scale(-1, 1) translate(-172, -119.5)"></path>
+        </g>
+    </g>
+</svg>
