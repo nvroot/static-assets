@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lovable</title>
+    <defs>
+        <path d="M72.0109773,0 C111.773136,0 144.021955,31.7856964 144.021955,71.0080464 L144.021955,97.9959018 L167.989023,97.9959018 C207.751182,97.9959018 240,129.781598 240,169.003948 C240,208.226298 207.763379,240 167.989023,240 L0,240 L0,70.9960518 C0,31.797691 32.2366214,0.0119946024 72.0109773,0.0119946024" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lovable">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Path"></g>
+            <g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
+                <g transform="translate(-85.4936, -130.084)" id="Oval">
+                    <ellipse fill="#4B73FF" cx="190.695307" cy="257.841276" rx="162.866215" ry="159.637715"></ellipse>
+                    <ellipse fill="#FF66F4" cx="208.583691" cy="170.23229" rx="208.583691" ry="159.637715"></ellipse>
+                    <ellipse fill="#FF0105" cx="242.599743" cy="140.198348" rx="162.866215" ry="140.198348"></ellipse>
+                    <ellipse fill="#FE7B02" cx="211.481536" cy="170.196336" rx="97.9520458" ry="96.0103405"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

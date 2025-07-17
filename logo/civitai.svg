@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>civitai</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1281F4" offset="0%"></stop>
+            <stop stop-color="#0821C6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100.006199%" id="linearGradient-2">
+            <stop stop-color="#09138A" offset="0%"></stop>
+            <stop stop-color="#150740" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="civitai">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="icon" transform="translate(16, 0)">
+                <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="104 0 208 60 208 180 104 240 0 180 0 60"></polygon>
+                <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="104 39 174 79.2524952 174 159.757486 104 200 34 159.757486 34 79.2524952"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="104.5 69 149 94.5049853 149 108.234604 125.03228 108.234604 104.5 96.4692082 83.9677201 108.234604 83.9677201 131.765396 104.5 143.530792 125.03228 131.765396 149 131.765396 149 145.495015 104.5 171 60 145.495015 60 94.5049853"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

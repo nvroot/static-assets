@@ -1,1 +1,24 @@
-<svg height="1em" style="flex:none;line-height:1" viewBox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Luma</title><path d="M2 5.999L12.392 0v24L2 18V5.999z" fill="#000"></path><path d="M12.392 24L2 18l10.392-6 10.393 6-10.393 6z" fill="url(#lobe-icons-luma-fill-0)"></path><path d="M12.392 24L2 18l10.392-6 10.393 6-10.393 6z" fill="url(#lobe-icons-luma-fill-1)"></path><path d="M2 5.999L12.392 0v24L2 18V5.999z" fill="url(#lobe-icons-luma-fill-2)" style="mix-blend-mode:screen"></path><path d="M12.392 24L2 18l10.392-6 10.393 6-10.393 6z" fill="url(#lobe-icons-luma-fill-3)" style="mix-blend-mode:overlay"></path><path d="M2 5.999L12.392 0v24L2 18V5.999z" fill="url(#lobe-icons-luma-fill-4)" style="mix-blend-mode:overlay"></path><defs><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-luma-fill-0" x1="2" x2="22.785" y1="18" y2="18"><stop stop-color="#00A"></stop><stop offset="1" stop-color="#A78DFF"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-luma-fill-1" x1="2" x2="22.785" y1="18" y2="18"><stop stop-color="#00A"></stop><stop offset="1" stop-color="#A78DFF"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-luma-fill-2" x1="13.748" x2="4.672" y1="22.642" y2="3.745"><stop stop-color="#004EFF"></stop><stop offset="1" stop-color="#0FF"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-luma-fill-3" x1="2" x2="22.785" y1="18" y2="18"><stop stop-color="#00A"></stop><stop offset="1" stop-color="#A78DFF"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-luma-fill-4" x1="13.748" x2="4.672" y1="22.642" y2="3.745"><stop stop-color="#004EFF"></stop><stop offset="1" stop-color="#0FF"></stop></linearGradient></defs></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="208px" height="240px" viewBox="0 0 208 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>luma</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0000AA" offset="0%"></stop>
+            <stop stop-color="#A78DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="61.839107%" y1="94.3416667%" x2="45.4392695%" y2="15.6041667%" id="linearGradient-2">
+            <stop stop-color="#004EFF" offset="0%"></stop>
+            <stop stop-color="#00FFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="luma" fill-rule="nonzero">
+            <polygon id="Path" fill="#000000" points="0 59.99 104 0 104 240 0 180"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-1)" points="103.994996 240 0 180 103.994996 120 208 180"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-1)" points="103.994996 240 0 180 103.994996 120 208 180"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" style="mix-blend-mode: screen;" points="0 59.99 104 0 104 240 0 180"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-1)" style="mix-blend-mode: overlay;" points="103.994996 240 0 180 103.994996 120 208 180"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" style="mix-blend-mode: overlay;" points="0 59.99 104 0 104 240 0 180"></polygon>
+        </g>
+    </g>
+</svg>

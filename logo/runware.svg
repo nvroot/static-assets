@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>runware</title>
+    <defs>
+        <linearGradient x1="27.3684211%" y1="19.0643275%" x2="71.754386%" y2="79.7076023%" id="linearGradient-1">
+            <stop stop-color="#6332FF" offset="0%"></stop>
+            <stop stop-color="#A37EFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="6.75438596%" y1="38.3625731%" x2="92.7192982%" y2="61.5204678%" id="linearGradient-2">
+            <stop stop-color="#CCB3FF" offset="0%"></stop>
+            <stop stop-color="#C9AFFF" offset="20%"></stop>
+            <stop stop-color="#C1A2FF" offset="50%"></stop>
+            <stop stop-color="#B28EFF" offset="70%"></stop>
+            <stop stop-color="#9F71FF" offset="100%"></stop>
+            <stop stop-color="#9E70FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="33.7719298%" y1="27.7777778%" x2="65.6140351%" y2="71.3450292%" id="linearGradient-3">
+            <stop stop-color="#6332FF" offset="0%"></stop>
+            <stop stop-color="#A37EFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="runware">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="240 240 160 240 120 160 200 160"></polygon>
+            <path d="M80,80 L0,80 L40,160 L120,160 L80,80 Z M240,80 L160,80 L120,0 L200,0 L240,80 Z M120,0 L40,0 L80,80 L160,80 L120,0 Z" id="Shape" fill="url(#linearGradient-2)"></path>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="240 80 160 80 120 160 200 160"></polygon>
+        </g>
+    </g>
+</svg>

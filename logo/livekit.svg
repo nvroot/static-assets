@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>livekit</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="livekit" fill-rule="nonzero">
+            <path d="M144,96 L96,96 L96,144 L144,144 L144,96 Z M192,48 L144,48 L144,96.012 L192,96.012 L192,48.012 L192,48 Z M192,144 L144,144 L144,192 L192,192 L192,144 Z M240,0 L192,0 L192,48 L240,48 L240,0 Z M240,192 L192,192 L192,240 L240,240 L240,192 Z" id="Shape" fill="#1FD5F9"></path>
+            <polygon id="Path" fill="#FFFFFF" points="48 192 48 0 0 0 0 240 144 240 144 192"></polygon>
+        </g>
+    </g>
+</svg>

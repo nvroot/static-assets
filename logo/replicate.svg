@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>replicate</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="replicate">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="icon" transform="translate(11, 0)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="219 0 219 26.9039363 30.2963431 26.9039363 30.2963431 239.004149 0 239.004149 0 0"></polygon>
+                <polygon id="Path" points="219 51.7842324 219 78.7223633 87.3576654 78.7223633 87.3576654 240 57 240 57 51.7842324"></polygon>
+                <polygon id="Path" points="218 102.572614 218 129.68653 144.143476 129.68653 144.143476 240 114 240 114 102.572614"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

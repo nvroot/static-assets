@@ -1,1 +1,50 @@
-<svg height="1em" style="flex:none;line-height:1" viewBox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><title>AzureAI</title><path clip-rule="evenodd" d="M16.233 0c.713 0 1.345.551 1.572 1.329.227.778 1.555 5.59 1.555 5.59v9.562h-4.813L14.645 0h1.588z" fill="url(#lobe-icons-azureai-fill-0)" fill-rule="evenodd"></path><path d="M23.298 7.47c0-.34-.275-.6-.6-.6h-2.835a3.617 3.617 0 00-3.614 3.615v5.996h3.436a3.617 3.617 0 003.613-3.614V7.47z" fill="url(#lobe-icons-azureai-fill-1)"></path><path clip-rule="evenodd" d="M16.233 0a.982.982 0 00-.989.989l-.097 18.198A4.814 4.814 0 0110.334 24H1.6a.597.597 0 01-.567-.794l7-19.981A4.819 4.819 0 0112.57 0h3.679-.016z" fill="url(#lobe-icons-azureai-fill-2)" fill-rule="evenodd"></path><defs><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-azureai-fill-0" x1="18.242" x2="14.191" y1="16.837" y2=".616"><stop stop-color="#712575"></stop><stop offset=".09" stop-color="#9A2884"></stop><stop offset=".18" stop-color="#BF2C92"></stop><stop offset=".27" stop-color="#DA2E9C"></stop><stop offset=".34" stop-color="#EB30A2"></stop><stop offset=".4" stop-color="#F131A5"></stop><stop offset=".5" stop-color="#EC30A3"></stop><stop offset=".61" stop-color="#DF2F9E"></stop><stop offset=".72" stop-color="#C92D96"></stop><stop offset=".83" stop-color="#AA2A8A"></stop><stop offset=".95" stop-color="#83267C"></stop><stop offset="1" stop-color="#712575"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-azureai-fill-1" x1="19.782" x2="19.782" y1=".34" y2="23.222"><stop stop-color="#DA7ED0"></stop><stop offset=".08" stop-color="#B17BD5"></stop><stop offset=".19" stop-color="#8778DB"></stop><stop offset=".3" stop-color="#6276E1"></stop><stop offset=".41" stop-color="#4574E5"></stop><stop offset=".54" stop-color="#2E72E8"></stop><stop offset=".67" stop-color="#1D71EB"></stop><stop offset=".81" stop-color="#1471EC"></stop><stop offset="1" stop-color="#1171ED"></stop></linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="lobe-icons-azureai-fill-2" x1="18.404" x2="3.236" y1=".859" y2="25.183"><stop stop-color="#DA7ED0"></stop><stop offset=".05" stop-color="#B77BD4"></stop><stop offset=".11" stop-color="#9079DA"></stop><stop offset=".18" stop-color="#6E77DF"></stop><stop offset=".25" stop-color="#5175E3"></stop><stop offset=".33" stop-color="#3973E7"></stop><stop offset=".42" stop-color="#2772E9"></stop><stop offset=".54" stop-color="#1A71EB"></stop><stop offset=".68" stop-color="#1371EC"></stop><stop offset="1" stop-color="#1171ED"></stop></linearGradient></defs></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223px" height="240px" viewBox="0 0 223 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>azureai</title>
+    <defs>
+        <linearGradient x1="52.2655995%" y1="102.160063%" x2="45.142632%" y2="3.73763728%" id="linearGradient-1">
+            <stop stop-color="#712575" offset="0%"></stop>
+            <stop stop-color="#9A2884" offset="9%"></stop>
+            <stop stop-color="#BF2C92" offset="18%"></stop>
+            <stop stop-color="#DA2E9C" offset="27%"></stop>
+            <stop stop-color="#EB30A2" offset="34%"></stop>
+            <stop stop-color="#F131A5" offset="40%"></stop>
+            <stop stop-color="#EC30A3" offset="50%"></stop>
+            <stop stop-color="#DF2F9E" offset="61%"></stop>
+            <stop stop-color="#C92D96" offset="72%"></stop>
+            <stop stop-color="#AA2A8A" offset="83%"></stop>
+            <stop stop-color="#83267C" offset="95%"></stop>
+            <stop stop-color="#712575" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.1205845%" y1="-67.942982%" x2="50.1205845%" y2="170.138383%" id="linearGradient-2">
+            <stop stop-color="#DA7ED0" offset="0%"></stop>
+            <stop stop-color="#B17BD5" offset="8%"></stop>
+            <stop stop-color="#8778DB" offset="19%"></stop>
+            <stop stop-color="#6276E1" offset="30%"></stop>
+            <stop stop-color="#4574E5" offset="41%"></stop>
+            <stop stop-color="#2E72E8" offset="54%"></stop>
+            <stop stop-color="#1D71EB" offset="67%"></stop>
+            <stop stop-color="#1471EC" offset="81%"></stop>
+            <stop stop-color="#1171ED" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="75.7239212%" y1="3.57926628%" x2="35.8270441%" y2="104.929118%" id="linearGradient-3">
+            <stop stop-color="#DA7ED0" offset="0%"></stop>
+            <stop stop-color="#B77BD4" offset="5%"></stop>
+            <stop stop-color="#9079DA" offset="11%"></stop>
+            <stop stop-color="#6E77DF" offset="18%"></stop>
+            <stop stop-color="#5175E3" offset="25%"></stop>
+            <stop stop-color="#3973E7" offset="33%"></stop>
+            <stop stop-color="#2772E9" offset="42%"></stop>
+            <stop stop-color="#1A71EB" offset="54%"></stop>
+            <stop stop-color="#1371EC" offset="68%"></stop>
+            <stop stop-color="#1171ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="azureai">
+            <path d="M152.814461,0 C159.925203,0 166.228132,5.51635216 168.492001,13.3053213 C170.75587,21.0942904 184,69.2697652 184,69.2697652 L184,165 L136,165 L136.977353,0 L152.814461,0 Z" id="Path" fill="url(#linearGradient-1)"></path>
+            <path d="M223,74.9931329 C223,71.5970242 220.269116,69 217.041708,69 L188.888779,69 C169.070888,69.0165304 153.010951,85.1748464 153,105.108626 L153,165 L187.121152,165 C206.93129,164.977971 222.983581,148.827346 223,128.901363 L223,74.9931329 L223,74.9931329 Z" id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            <path d="M151.840519,0 C149.220331,-0.0185543417 146.702022,1.01738321 144.849222,2.87620756 C142.996423,4.7350319 141.963843,7.26152984 141.982588,9.89023717 L141.015733,191.869971 C141.01023,218.44911 119.534791,239.99438 93.0417984,240 L5.98500507,240 C4.05090438,240.011092 2.232039,239.078537 1.10803464,237.499417 C-0.0159697187,235.920296 -0.304873142,233.891633 0.333390477,232.059912 L70.1064101,32.2502044 C76.8423944,12.9695497 94.9648831,0.0457962741 115.329294,0 L152,0 L151.840519,0 L151.840519,0 Z" id="Path" fill="url(#linearGradient-3)"></path>
+        </g>
+    </g>
+</svg>
