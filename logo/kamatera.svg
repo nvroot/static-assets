@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2">
+            <rect id="Rectangle" fill="#11357D" x="0" y="0" width="240" height="240" rx="32"></rect>
+            <g id="Group" transform="translate(59, 25)" fill="#FFFFFF" opacity="0.499558222">
+                <polygon id="Rectangle" points="0 32.1636364 61 0 61 28.8363636 0 61"></polygon>
+                <polygon id="Rectangle-Copy-3" transform="translate(91.5, 30.5) scale(-1, 1) translate(-91.5, -30.5)" points="61 32.1636364 122 0 122 28.8363636 61 61"></polygon>
+                <polygon id="Rectangle-Copy-4" transform="translate(91.5, 76.5) scale(-1, 1) translate(-91.5, -76.5)" points="61 78.1636364 122 46 122 74.8363636 61 107"></polygon>
+                <polygon id="Rectangle-Copy-5" transform="translate(91.5, 122.5) scale(-1, 1) translate(-91.5, -122.5)" points="61 124.163636 122 92 122 120.836364 61 153"></polygon>
+                <polygon id="Rectangle-Copy-9" transform="translate(30.5, 159.5) scale(-1, 1) translate(-30.5, -159.5)" points="0 161.163636 61 129 61 157.836364 0 190"></polygon>
+                <polygon id="Rectangle-Copy-10" transform="translate(30.5, 113.5) scale(-1, 1) translate(-30.5, -113.5)" points="0 115.163636 61 83 61 111.836364 0 144"></polygon>
+                <polygon id="Rectangle-Copy-11" transform="translate(30.5, 66.5) scale(-1, 1) translate(-30.5, -66.5)" points="0 68.1636364 61 36 61 64.8363636 0 97"></polygon>
+                <polygon id="Rectangle-Copy-6" points="61 161.163636 122 129 122 157.836364 61 190"></polygon>
+                <polygon id="Rectangle-Copy-7" points="61 115.163636 122 83 122 111.836364 61 144"></polygon>
+                <polygon id="Rectangle-Copy-8" points="61 68.1636364 122 36 122 64.8363636 61 97"></polygon>
+                <polygon id="Rectangle-Copy" points="0 78.1636364 61 46 61 74.8363636 0 107"></polygon>
+                <polygon id="Rectangle-Copy-2" points="0 124.163636 61 92 61 120.836364 0 153"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
