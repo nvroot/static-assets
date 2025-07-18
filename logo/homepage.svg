@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="232px" height="240px" viewBox="0 0 232 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>homepage</title>
+    <defs>
+        <linearGradient x1="10.2465278%" y1="3.34801631e-14%" x2="82.0910632%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C5DDF3" offset="0%"></stop>
+            <stop stop-color="#0065A7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="homepage">
+            <path d="M0,22 C0,9.8497355 9.8497355,0 22,0 L214,0 L214,91.948 L194.474453,91.9480519 L194.474453,240 L97.2372263,158.181818 L64.824,185.455 L64.8248175,162.857143 L34.3649635,162.857143 L34.364,211.085 L0,240 L0,22 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M213,0 C223.49341,0 232,8.55212012 232,19.1016949 C232,19.2319117 231.998704,19.3618242 231.996124,19.49142 L232,92 L194,92 L194,19.4915254 C194.001296,19.3618242 194,19.2319117 194,19.1016949 C194,8.55212012 202.50659,0 213,0 Z" id="Combined-Shape" fill="#1A6DA8"></path>
+        </g>
+    </g>
+</svg>
