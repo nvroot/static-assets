@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ipgeolocation</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ipgeolocation">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(40, 0)">
+                <path d="M80.4911274,0 C94.2621255,0 107.802833,3.53313408 119.818221,10.2614947 C158.604976,31.9812486 172.440514,81.0314656 150.72076,119.818221 L84.8536972,237.442465 C84.4031024,238.247129 83.7387376,238.911494 82.9340733,239.362089 C80.5246925,240.711291 77.4777593,239.851846 76.1285576,237.442465 L10.2614947,119.818221 C3.53313408,107.802833 8.52651283e-14,94.2621255 8.52651283e-14,80.4911274 C8.52651283e-14,36.0371052 36.0371052,0 80.4911274,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <ellipse id="Oval" fill="#6C63FF" cx="80.4983402" cy="79.2614337" rx="63.5060632" ry="63.3094471"></ellipse>
+                <g id="web" transform="translate(47.9952, 46.859)" stroke="#FFFFFF" stroke-width="3">
+                    <ellipse id="Oval" cx="33.0031509" cy="32.9009725" rx="31.5031509" ry="31.4009725"></ellipse>
+                    <line x1="6.1291566" y1="17.390514" x2="58.9341981" y2="17.390514" id="Line" stroke-linecap="square"></line>
+                    <line x1="2.35736792" y1="33.3709864" x2="63.4954174" y2="33.6410392" id="Line-Copy-2" stroke-linecap="square"></line>
+                    <line x1="1.51072906" y1="32.9010039" x2="63.5525629" y2="32.9010039" id="Line-Copy-3" stroke-linecap="square" transform="translate(32.5317, 32.901) rotate(90) translate(-32.5317, -32.901)"></line>
+                    <line x1="7.07210377" y1="49.3514587" x2="58.9341981" y2="49.3514587" id="Line-Copy" stroke-linecap="square"></line>
+                    <path d="M27.1885823,1.65744793 C13.3552595,19.8491605 12.9799723,40.543896 26.062721,63.7416544" id="Path-2"></path>
+                    <path d="M48.8763672,1.65744793 C35.0430444,19.8491605 34.6677572,40.543896 47.7505059,63.7416544" id="Path-2" transform="translate(43.5442, 32.6996) scale(-1, 1) translate(-43.5442, -32.6996)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

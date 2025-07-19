@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>inference</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="inference">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 7)" fill-rule="nonzero">
+                <polygon id="Path" fill="#FFFFFF" points="240 0 181 0 181 226 240 226"></polygon>
+                <polygon id="Path" fill="#FF4405" points="152 0 110 0 110 226 152 226"></polygon>
+                <polygon id="Path" fill="#FAC515" points="82 0 50 0 50 226 82 226"></polygon>
+                <polygon id="Path" fill="#53B1FD" points="23 0 0 0 0 226 23 226"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

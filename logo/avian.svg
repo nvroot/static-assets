@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>avian</title>
+    <defs>
+        <linearGradient x1="4.4729345%" y1="3.9574717%" x2="95.2730294%" y2="95.4141714%" id="linearGradient-1">
+            <stop stop-color="#05FAD5" offset="0%"></stop>
+            <stop stop-color="#0082F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="avian" transform="translate(-0.0004, 0)">
+            <rect id="box" fill="url(#linearGradient-1)" x="0.000418593513" y="0" width="240" height="240" rx="32"></rect>
+            <path d="M208.81516,103.698031 C220.383677,112.204609 222.865869,128.47869 214.359291,140.047207 L140.861,239.999961 L87.091,239.999961 L39.7663388,176.215684 L3.82160958,223.177316 C1.38399492,218.661054 0.000418593513,213.492103 0.000418593513,208 L-1.13686838e-13,142.616961 L19.4445571,117.214103 C29.9496112,103.489964 50.6728407,103.645278 60.9710105,117.52533 L113.908339,188.875684 L172.465984,109.242161 C180.972563,97.6736439 197.246643,95.1914522 208.81516,103.698031 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
