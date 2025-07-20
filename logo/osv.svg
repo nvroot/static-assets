@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>osv</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="osv">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(1, 77)">
+                <circle id="red" fill="#D93025" cx="43" cy="43" r="18.0322581"></circle>
+                <path d="M43,8 C52.6649831,8 61.4149831,11.9175084 67.7487373,18.2512627 C74.0824916,24.5850169 78,33.3350169 78,43 C78,52.6649831 74.0824916,61.4149831 67.7487373,67.7487373 C61.4149831,74.0824916 52.6649831,78 43,78 C33.3350169,78 24.5850169,74.0824916 18.2512627,67.7487373 C11.9175084,61.4149831 8,52.6649831 8,43 C8,33.3350169 11.9175084,24.5850169 18.2512627,18.2512627 C24.5850169,11.9175084 33.3350169,8 43,8 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="16"></path>
+            </g>
+        </g>
+    </g>
+</svg>

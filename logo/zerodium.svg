@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zerodium</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="zerodium">
+            <rect id="box" fill="#653896" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 9)" fill="#FFFFFF">
+                <polygon id="Rectangle" points="200 0 233 0 233 33"></polygon>
+                <text id="0x7DF" font-family="Roboto-Regular, Roboto" font-size="17" font-weight="normal" line-spacing="21" letter-spacing="0.166666">
+                    <tspan x="178" y="217">0x7DF</tspan>
+                </text>
+                <text id="0.0000" font-family="Roboto-Regular, Roboto" font-size="17" font-weight="normal" line-spacing="21" letter-spacing="0.166666">
+                    <tspan x="7" y="20">0.0000</tspan>
+                </text>
+                <text id="OD" opacity="0.848028274" font-family="Orenburg-Bold, Orenburg" font-size="134" font-weight="bold" letter-spacing="6.41372">
+                    <tspan x="0" y="166">OD</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

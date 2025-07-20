@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>securityscorecard</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="securityscorecard">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(17, 0)" fill="#594EF0" fill-rule="nonzero">
+                <polygon id="Path" points="164.704143 35.0022402 147.408223 45.0347431 121.407285 59.9720475 147.408223 75.0208519 164.704143 84.9418548 208 110.022962 208 59.9720475"></polygon>
+                <polygon id="Path" points="104.00025 0 60.7037926 24.9698373 60.7037926 75.0209519 86.7033297 59.9721475 104.00025 50.0511446 147.407222 24.9698373"></polygon>
+                <polygon id="Path" points="0 59.9720475 0 110.022962 17.2961198 119.943965 43.2961573 134.992969 43.2961573 35.0022402"></polygon>
+                <polygon id="Path" points="60.7038927 164.978978 0 129.976968 0 180.027983 43.2961573 204.99799 60.7038927 194.964987 86.7043307 180.027983"></polygon>
+                <polygon id="Path" points="121.407285 180.027983 104.00025 189.948985 60.7037926 215.029993 104.00025 240 147.407222 215.029993 147.407222 164.978978"></polygon>
+                <polygon id="Path" points="190.70408 119.943965 164.704143 105.006961 164.704143 204.99799 208 180.027983 208 129.976968"></polygon>
+                <polygon id="Path" points="125.647678 157.510976 147.407222 145.025972 147.407222 94.9745577 104.00025 70.0047504 60.7037926 94.9745577 60.7037926 145.025972 104.00025 169.99498"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

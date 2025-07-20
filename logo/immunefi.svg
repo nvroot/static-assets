@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="241px" viewBox="0 0 240 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>immunefi</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="immunefi" transform="translate(0, 0.9676)">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 17)" fill="#FFFFFF" fill-rule="nonzero">
+                <polygon id="Path" points="53.6939995 87 120.220404 154.448653 186.03636 87.7204341 240 142.431832 177.301148 206 161.171707 190.082668 208.170583 142.431832 186.03636 119.990541 120.220404 186.719273 53.6939995 119.270621 31.829159 141.438732 79.542866 189.81411 63.4134249 205.731442 0 141.438732"></polygon>
+                <polygon id="Path" points="186.305931 119 119.779441 51.5515873 53.9639147 118.280076 0 63.5679428 62.6986229 0 78.8280848 15.9174269 31.8291475 63.5679428 53.9639147 86.0098384 119.779441 19.2808357 186.305931 86.7297619 208.171058 64.561047 160.457031 16.1857807 176.586493 0.268333264 240 64.561047"></polygon>
+                <polygon id="Path" points="109.456067 205 109.456067 162 131.548117 162 131.548117 205"></polygon>
+                <polygon id="Path" points="109.456067 44 109.456067 1 131.548117 1 131.548117 44"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

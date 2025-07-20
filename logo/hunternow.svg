@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hunternow</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hunternow">
+            <g id="center" transform="translate(75, 76)" stroke="#FFFFFF" stroke-width="12">
+                <path d="M40.502994,0 C18.1338081,0 0,18.1338081 0,40.502994" id="Oval"></path>
+                <path d="M89,0 C66.6308141,0 48.497006,18.1338081 48.497006,40.502994" id="Oval-Copy-2" transform="translate(68.7485, 20.2515) scale(-1, 1) translate(-68.7485, -20.2515)"></path>
+                <path d="M89,48.497006 C66.6308141,48.497006 48.497006,66.6308141 48.497006,89" id="Oval-Copy-3" transform="translate(68.7485, 68.7485) scale(-1, -1) translate(-68.7485, -68.7485)"></path>
+                <path d="M40.502994,48.497006 C18.1338081,48.497006 0,66.6308141 0,89" id="Oval-Copy-4" transform="translate(20.2515, 68.7485) scale(1, -1) translate(-20.2515, -68.7485)"></path>
+            </g>
+            <path d="M-3.73034936e-13,116 L-3.73034936e-13,105.230769 L25.8697425,105.229855 C31.1831662,60.048118 69.5094478,25 116,25 L116,37.9230769 C72.993382,37.9230769 38.1296296,72.8793061 38.1296296,116 L-3.73034936e-13,116 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M124,0 L134.769231,0 L134.770145,25.8697425 C179.951882,31.1831662 215,69.5094478 215,116 L202.076923,116 C202.076923,72.993382 167.120694,38.1296296 124,38.1296296 L124,0 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M240,124 L240,134.769231 L214.130258,134.770145 C208.816834,179.951882 170.490552,215 124,215 L124,202.076923 C167.006618,202.076923 201.87037,167.120694 201.87037,124 L240,124 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M116,240 L105.230769,240 L105.229855,214.130258 C60.048118,208.816834 25,170.490552 25,124 L37.9230769,124 C37.9230769,167.006618 72.8793061,201.87037 116,201.87037 L116,240 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

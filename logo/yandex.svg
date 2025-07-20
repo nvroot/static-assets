@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>yandex</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="yandex" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#FC3F1D" x="0" y="0" width="240" height="240" rx="120"></rect>
+            <path d="M122.745853,132.39 C129.736002,147.75 132.066716,153.092 132.066716,171.54 L132.066716,196 L107.100761,196 L107.100761,154.76 L60,52 L86.0465771,52 L122.745853,132.39 Z M153.535603,52 L122.995074,121.62 L148.375733,121.62 L179,52 L153.535603,52 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

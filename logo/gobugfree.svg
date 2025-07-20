@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gobugfree</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gobugfree">
+            <rect id="box" x="0" y="3.30904987e-05" width="240" height="240"></rect>
+            <g id="shape" transform="translate(41, 0)" fill-rule="nonzero">
+                <polygon id="Path" fill="#358280" points="0 102.013993 79.5428363 148 159 102.004804 79.9346626 56"></polygon>
+                <polygon id="Path" fill="#4DB2A1" points="0 193.66949 79 240 79 148.049068 0.0850879601 102"></polygon>
+                <polygon id="Path" fill="#80C3B4" points="80 148.049068 80 240 159 193.66949 158.914912 102"></polygon>
+                <polygon id="Path" fill="#4DB2A1" points="79.6386629 0 22 33.2263061 22 115 35.7739882 107.260549 35.7739882 41.1968352 79.6386629 15.9418955 123.225594 41.328282 123.225594 62.4246484 137 70.6003014 137 33.3577528"></polygon>
+                <polygon id="Path" fill="#80C3B4" points="22 114.38113 79 148 79 82"></polygon>
+                <polygon id="Path" fill="#4DB2A1" points="137 114.38113 80 148 80 82"></polygon>
+                <polygon id="Path" fill="#FEFEFE" points="80 211 68.8356808 166.722665 33.0797251 146.933378 33.0797251 166.216929 56.4874647 179.582989 56.7471392 208.997235 22 188.904002 22 114 80 147.795189"></polygon>
+                <polygon id="Path" fill="#FEFEFE" points="79 211 90.1643192 166.722665 125.920275 146.933378 125.920275 166.216929 102.512535 179.582989 102.252861 208.997235 137 188.904002 137 114 79 147.795189"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
