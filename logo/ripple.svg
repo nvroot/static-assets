@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ripple</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ripple">
+            <rect id="box" fill="#23292F" x="0" y="0" width="240" height="240" rx="32"></rect>
+            <g id="shape" transform="translate(40, 54)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M135.932126,0 L159,0 L110.993883,47.1897768 C93.6088107,64.2700744 65.4223621,64.2700744 48.0248206,47.1897768 L0,0 L23.086578,0 L59.5587578,35.8472708 C70.615944,46.6665047 88.3747042,46.6665047 99.4318904,35.8472708 L135.932126,0 Z" id="Path"></path>
+                <path d="M22.9959961,132 L0,132 L48.1347656,83.9608855 C65.4539648,66.6797048 93.5336133,66.6797048 110.865234,83.9608855 L159,132 L136.019531,132 L99.375,95.4367918 C88.3597102,84.4903118 70.668239,84.4903118 59.6529492,95.4367918 L22.9959961,132 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

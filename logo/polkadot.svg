@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="229px" viewBox="0 0 241 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>polkadot</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polkadot" transform="translate(0.0369, 0)" fill="#E6007A" fill-rule="nonzero">
+            <ellipse id="Oval" cx="120.683801" cy="24" rx="41.5760243" ry="24"></ellipse>
+            <ellipse id="Oval" cx="120.683801" cy="205" rx="41.5760243" ry="24"></ellipse>
+            <ellipse id="Oval" transform="translate(41.4995, 69.2984) rotate(-59.9993) translate(-41.4995, -69.2984)" cx="41.4995492" cy="69.2983933" rx="41.3135942" ry="24.0659836"></ellipse>
+            <ellipse id="Oval" transform="translate(198.5047, 159.7783) rotate(-59.9993) translate(-198.5047, -159.7783)" cx="198.50467" cy="159.778277" rx="41.3133569" ry="24.0497228"></ellipse>
+            <ellipse id="Oval" transform="translate(41.5053, 159.7726) rotate(-30.0007) translate(-41.5053, -159.7726)" cx="41.5053083" cy="159.772566" rx="24.0659836" ry="41.3135942"></ellipse>
+            <ellipse id="Oval" transform="translate(198.5144, 69.3034) rotate(-30.0007) translate(-198.5144, -69.3034)" cx="198.514414" cy="69.3034492" rx="24.0497228" ry="41.3133569"></ellipse>
+        </g>
+    </g>
+</svg>

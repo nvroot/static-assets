@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>solana</title>
+    <defs>
+        <linearGradient x1="90.7374091%" y1="34.6619313%" x2="35.5088867%" y2="55.4557619%" id="linearGradient-1">
+            <stop stop-color="#00FFA3" offset="0%"></stop>
+            <stop stop-color="#DC1FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="66.5884868%" y1="43.7531167%" x2="11.3599644%" y2="64.5469472%" id="linearGradient-2">
+            <stop stop-color="#00FFA3" offset="0%"></stop>
+            <stop stop-color="#DC1FFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="78.5860888%" y1="39.2366997%" x2="23.3575412%" y2="60.0305352%" id="linearGradient-3">
+            <stop stop-color="#00FFA3" offset="0%"></stop>
+            <stop stop-color="#DC1FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="solana">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 26)" fill-rule="nonzero">
+                <path d="M38.992371,143.301546 C40.4405521,141.847938 42.4318011,141 44.5437318,141 L236.065679,141 C239.56545,141 241.315336,145.239691 238.84136,147.722938 L201.007629,185.698454 C199.559448,187.152062 197.568199,188 195.456268,188 L3.93432076,188 C0.43454982,188 -1.31533565,183.760309 1.15864036,181.277062 L38.992371,143.301546 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <path d="M38.992371,2.30154639 C40.500893,0.847938144 42.4921419,0 44.5437318,0 L236.065679,0 C239.56545,0 241.315336,4.23969072 238.84136,6.72293814 L201.007629,44.6984536 C199.559448,46.1520619 197.568199,47 195.456268,47 L3.93432076,47 C0.43454982,47 -1.31533565,42.7603093 1.15864036,40.2770619 L38.992371,2.30154639 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                <path d="M201.007629,72.3015464 C199.559448,70.8479381 197.568199,70 195.456268,70 L3.93432076,70 C0.43454982,70 -1.31533565,74.2396907 1.15864036,76.7229381 L38.992371,114.698454 C40.4405521,116.152062 42.4318011,117 44.5437318,117 L236.065679,117 C239.56545,117 241.315336,112.760309 238.84136,110.277062 L201.007629,72.3015464 Z" id="Path" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

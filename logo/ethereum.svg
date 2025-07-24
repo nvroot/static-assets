@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ethereum</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ethereum">
+            <rect id="box" fill="#FFFFFF" x="0" y="0" width="240" height="240" rx="120"></rect>
+            <g id="shape" transform="translate(69, 36)" fill-rule="nonzero">
+                <polygon id="Path" fill="#343434" points="51.1337394 0 50 3.82726768 50 114.87588 51.1337394 116 103 85.5304265"></polygon>
+                <polygon id="Path" fill="#8C8C8C" points="51 0 0 85.5304265 51 116 51 62.1000805"></polygon>
+                <polygon id="Path" fill="#3C3C3B" points="51.6324377 125.185813 51 125.953393 51 165.162501 51.6324377 167 103 95"></polygon>
+                <polygon id="Path" fill="#8C8C8C" points="51 167 51 125.185813 0 95"></polygon>
+                <polygon id="Path" fill="#141414" points="52 115 103 84.4738511 52 61"></polygon>
+                <polygon id="Path" fill="#393939" points="0 84.4738511 51 115 51 61"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

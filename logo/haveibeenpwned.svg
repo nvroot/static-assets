@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>haveibeenpwned</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="haveibeenpwned" transform="translate(-0.0006, 0)">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 39)" fill="#F6F8FA" fill-rule="nonzero">
+                <polygon id="Path" points="232.77229 97 240 60 193.001769 60 185.774059 97"></polygon>
+                <polygon id="Path" points="171.516905 97 178.74477 60 131.746403 60 124.518828 97"></polygon>
+                <polygon id="Path" points="96.6079669 162 106.443515 112 59.0404225 112 49.2050209 162"></polygon>
+                <polygon id="Path" points="47.301636 97 66.2761506 0 18.9745742 0 0 97"></polygon>
+                <polygon id="Path" points="109.662481 97 119.497908 47 72.0948409 47 62.2594142 97"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

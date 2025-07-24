@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chainlink</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chainlink">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <path d="M120,0 L97.989418,12.6605505 L38.010582,47.3394495 L16,60 L16,180 L38.010582,192.66055 L98.5396825,227.33945 L120.550265,240 L142.560847,227.33945 L201.989418,192.66055 L224,180 L224,60 L201.989418,47.3394495 L142.010582,12.6605505 L120,0 Z M60.021164,154.678899 L60.021164,85.3211009 L120,50.6422018 L179.978836,85.3211009 L179.978836,154.678899 L120,189.357798 L60.021164,154.678899 Z" id="Shape" fill="#2A5ADA" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
