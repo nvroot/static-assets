@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="242px" height="240px" viewBox="0 0 242 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>crawlee</title>
+    <defs>
+        <linearGradient x1="100.000018%" y1="8.74652778%" x2="9.89126759%" y2="99.4144404%" id="linearGradient-1">
+            <stop stop-color="#FFB200" offset="0.0950807%"></stop>
+            <stop stop-color="#FFB100" offset="8.14769%"></stop>
+            <stop stop-color="#FFAF02" offset="15.6006%"></stop>
+            <stop stop-color="#FEAB04" offset="22.5461%"></stop>
+            <stop stop-color="#FDA606" offset="29.0764%"></stop>
+            <stop stop-color="#FCA00A" offset="35.2838%"></stop>
+            <stop stop-color="#FB980E" offset="41.2606%"></stop>
+            <stop stop-color="#FA9013" offset="47.099%"></stop>
+            <stop stop-color="#F98618" offset="52.8912%"></stop>
+            <stop stop-color="#F77B1E" offset="58.7296%"></stop>
+            <stop stop-color="#F56F24" offset="64.7064%"></stop>
+            <stop stop-color="#F3632B" offset="70.9138%"></stop>
+            <stop stop-color="#F25532" offset="77.4441%"></stop>
+            <stop stop-color="#EF473A" offset="84.3896%"></stop>
+            <stop stop-color="#ED3842" offset="91.8425%"></stop>
+            <stop stop-color="#EB284B" offset="99.8951%"></stop>
+        </linearGradient>
+        <linearGradient x1="96.748856%" y1="0%" x2="-1.01264871%" y2="95.4401045%" id="linearGradient-2">
+            <stop stop-color="#FFB200" offset="0.0950807%"></stop>
+            <stop stop-color="#FFB100" offset="8.14769%"></stop>
+            <stop stop-color="#FFAF02" offset="15.6006%"></stop>
+            <stop stop-color="#FEAB04" offset="22.5461%"></stop>
+            <stop stop-color="#FDA606" offset="29.0764%"></stop>
+            <stop stop-color="#FCA00A" offset="35.2838%"></stop>
+            <stop stop-color="#FB980E" offset="41.2606%"></stop>
+            <stop stop-color="#FA9013" offset="47.099%"></stop>
+            <stop stop-color="#F98618" offset="52.8912%"></stop>
+            <stop stop-color="#F77B1E" offset="58.7296%"></stop>
+            <stop stop-color="#F56F24" offset="64.7064%"></stop>
+            <stop stop-color="#F3632B" offset="70.9138%"></stop>
+            <stop stop-color="#F25532" offset="77.4441%"></stop>
+            <stop stop-color="#EF473A" offset="84.3896%"></stop>
+            <stop stop-color="#ED3842" offset="91.8425%"></stop>
+            <stop stop-color="#EB284B" offset="99.8951%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="crawlee" transform="translate(1, 0)">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 11)" fill-rule="nonzero">
+                <path d="M235.668001,218 L4.30615619,218 C0.996273059,218 -1.07249445,214.264933 0.582447115,211.255625 L58.4293377,106.746425 L116.276047,2.237225 C117.931351,-0.745741667 122.068705,-0.745741667 123.724009,2.237225 L160.934839,69.4717858 C138.566505,75.0228833 121.990829,95.2814417 121.990829,119.430392 C121.990829,147.860317 144.954094,170.894742 173.295286,170.894742 C187.181546,170.894742 199.800973,165.36935 209.032823,156.342333 L239.41779,211.255625 C241.072188,214.238592 239.003964,218 235.693356,218 L235.668001,218 Z" id="Path" stroke="url(#linearGradient-1)" stroke-width="1.01449" fill="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M178.812624,54 C188.047466,54 196.992184,56.050611 205.145176,59.950572 C209.593726,62.0785235 211.46603,67.3912926 209.327082,71.8169739 C207.188135,76.2426552 201.847913,78.1053332 197.399362,75.9773817 C191.650161,73.2272674 185.351022,71.7831655 178.812624,71.7831655 C155.092266,71.7831655 135.875057,90.9015827 135.875057,114.5 C135.875057,138.098417 155.092266,157.216834 178.812624,157.216834 C195.821419,157.216834 211.010749,147.293999 217.92272,132.153486 C219.963896,127.682338 225.261906,125.70395 229.756158,127.734633 C234.250409,129.765315 236.239021,135.03609 234.197845,139.507237 C224.411497,160.944005 202.895355,175 178.812624,175 C145.220144,175 118,147.919788 118,114.5 C118,81.0802115 145.220144,54 178.812624,54 Z" id="Path" fill="url(#linearGradient-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
