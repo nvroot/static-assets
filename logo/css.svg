@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="241px" viewBox="0 0 240 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>css</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="css" transform="translate(0, 0.31)">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(14, 0)" fill-rule="nonzero">
+                <polygon id="back" fill="#264DE4" points="212 0 192.686255 215.974914 105.870252 240 19.2932893 216.008751 0 0"></polygon>
+                <polygon id="shadow" fill="#2965F1" points="176.429689 202.583682 193 18 106 18 106 222"></polygon>
+                <polygon id="3" fill="#FFFFFF" points="138.443589 124.108505 135.385358 158.465057 106 166.439622 106 194 160.013081 178.948664 160.409357 174.473107 166.600665 104.731537 167.243526 97.6180142 172 44 106 44 106 70.4910746 143.125798 70.4910746 140.728414 97.6180142 106 97.6180142 106 124.108505"></polygon>
+                <path d="M44,97.6180142 L46.3875485,124.108505 L106,124.108505 L106,97.6180142 L44,97.6180142 Z M106,44 L105.907621,44 L39,44 L41.4289177,70.4910746 L106,70.4910746 L106,44 Z M106,194 L106,166.439622 L105.878282,166.666281 L76.4307217,158.254983 L74.5478808,137 L60.2358446,137 L48,137 L51.7051139,178.845033 L105.878282,194 L106,194 Z" id="3" fill="#EBEBEB"></path>
+            </g>
+        </g>
+    </g>
+</svg>

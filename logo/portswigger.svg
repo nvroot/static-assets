@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>portswigger</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="portswigger" transform="translate(0.45, -0.4)" fill-rule="nonzero">
+            <rect id="box" fill="#FF6633" x="-0.45" y="0.4" width="240" height="239"></rect>
+            <polygon id="Path" fill="#FFFFFF" points="132.826923 240.4 107.273077 240.4 107.273077 201.690323 142.119231 159.109677 107.273077 159.109677 107.273077 107.23871 44.55 107.23871 107.273077 29.8193548 107.273077 0.4 132.826923 0.4 132.826923 39.1096774 97.9807692 81.6903226 132.826923 81.6903226 132.826923 133.56129 195.55 133.56129 132.826923 210.980645"></polygon>
+        </g>
+    </g>
+</svg>

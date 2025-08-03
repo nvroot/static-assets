@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="241px" viewBox="0 0 240 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>html</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="html" transform="translate(184, -73.0737)">
+            <rect id="box" x="-184" y="74" width="240" height="240"></rect>
+            <g id="shape" transform="translate(-170, 74)" fill-rule="nonzero">
+                <polyline id="Path" fill="#E44D26" points="19.2833517 216.081672 0 0 212 0 192.716648 215.964998 105.824697 240"></polyline>
+                <polyline id="Path" fill="#F16529" points="106 222 106 18 193 18 176.397842 202.446352"></polyline>
+                <path d="M39,44 L106,44 L106,70.467159 L68.2684211,70.467159 L70.7368421,97.5755927 L106,97.5755927 L106,123.984454 L46.2877193,123.984454 M47.4631579,137.276331 L74.2631579,137.276331 L76.1438596,158.438399 L106,166.366887 L106,194 L51.2245614,178.842596" id="Shape" fill="#EBEBEB"></path>
+                <path d="M172,44 L106,44 L106,70.487748 L169.564148,70.487748 M167.186292,97.6172695 L106,97.6172695 L106,124.105018 L138.478032,124.105018 L135.404218,158.527421 L106,166.462077 L106,194 L159.936731,178.947491" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

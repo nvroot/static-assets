@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="241px" viewBox="0 0 240 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>elixir</title>
+    <defs>
+        <linearGradient x1="50.6009855%" y1="7.37317326%" x2="49.660879%" y2="100.034159%" id="linearGradient-1">
+            <stop stop-color="#D9D8DC" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.385" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.5806477%" y1="6.19445852%" x2="48.2858456%" y2="98.5641771%" id="linearGradient-2">
+            <stop stop-color="#8D67AF" stop-opacity="0.672" offset="0%"></stop>
+            <stop stop-color="#9F8DAF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.000435%" y1="31.4503447%" x2="50.000435%" y2="98.2091584%" id="linearGradient-3">
+            <stop stop-color="#26053D" stop-opacity="0.762" offset="0%"></stop>
+            <stop stop-color="#B7B4B4" stop-opacity="0.278" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="21.0241972%" y1="25.2700973%" x2="60.9779447%" y2="72.0527047%" id="linearGradient-4">
+            <stop stop-color="#91739F" stop-opacity="0.46" offset="0%"></stop>
+            <stop stop-color="#32054F" stop-opacity="0.54" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="67.8965243%" y1="96.6000608%" x2="25.7124704%" y2="21.3351791%" id="linearGradient-5">
+            <stop stop-color="#463D49" stop-opacity="0.331" offset="0%"></stop>
+            <stop stop-color="#340A50" stop-opacity="0.821" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.7013318%" y1="5.52062402%" x2="48.8159922%" y2="97.6940826%" id="linearGradient-6">
+            <stop stop-color="#715383" stop-opacity="0.145" offset="0%"></stop>
+            <stop stop-color="#F4F4F4" stop-opacity="0.234" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="58.2156333%" y1="65.0974124%" x2="46.2714935%" y2="42.8912215%" id="linearGradient-7">
+            <stop stop-color="#A5A1A8" stop-opacity="0.356" offset="0%"></stop>
+            <stop stop-color="#370C50" stop-opacity="0.582" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="elixir" transform="translate(-0, 0.1813)">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(43, 0)">
+                <path d="M84.0685528,1 C32.2836879,26.1505248 -32.774554,156.595411 21.4406475,213.841008 C71.5429717,276.71732 181.095069,216.280984 149.313744,137.826362 C109.119715,70.2577883 83.8816038,66.6916691 84.0685528,1 Z" id="Path" fill="url(#linearGradient-1)"></path>
+                <path d="M84.238849,0 C32.4710028,25.1876196 -32.9890636,155.448966 21.5922525,212.966963 C41.6616712,236.27491 74.1103574,243.981569 92.3041294,230.071988 C141.8212,194.734134 106.183914,130.261346 111.810854,82.5176494 C91.1787414,63.3449837 83.8637197,20.8643715 84.238849,0 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                <path d="M69.3176089,8 C27.6279542,37.9558302 16.5979559,149.301086 24.26287,185.474164 C39.5926982,276.09526 164.848611,238.791773 154.37946,154.387925 C143.162513,99.3747021 63.1482878,80.5345574 69.3176089,8 Z" id="Path" fill="url(#linearGradient-3)"></path>
+                <path d="M111.26344,93.6746818 C130.701911,118.870505 135.000804,136.16913 123.97321,146.134642 C72.1995897,182.612176 9.39837561,160.048753 23.042687,76 C5.28639135,118.494448 -27.6094827,182.048091 44.9109669,191.07346 C83.787909,197.842487 145.84149,194.834031 155,160.800867 C154.626183,130.904331 134.813895,117.742334 111.26344,93.6746818 Z" id="Path" fill="url(#linearGradient-4)"></path>
+                <path d="M34.6875,69 C29.25,108.846666 100.5,215.4177 144,202.448738 C110.8125,269.361064 37.3125,162.602073 24,124.071099 C26.8125,103.395942 28.125,93.2463201 34.6875,69 Z" id="Path" fill="url(#linearGradient-5)"></path>
+                <path d="M77.0970495,93.8295085 C78.5974861,108.652589 84.4116782,132.294463 77.0970495,147.868079 C69.7824208,163.441695 36.3977053,191.962051 45.5878798,216.917363 C66.9691021,263.450577 115.170629,208.661471 114.79552,181.266918 C116.858621,159.126114 102.416918,108.652589 111.419538,82.7591069 L107.293337,77.505357 L81.785914,70 C77.6597132,76.0042856 76.1592766,84.0725444 77.0970495,93.8295085 Z" id="Path" fill="url(#linearGradient-6)"></path>
+                <path d="M85.2455595,20 C30.8568151,51.1836158 53.1320688,100.025424 55.5452212,153 L91,48.9293785 C88.4012204,38.2217514 86.7305764,31.0833333 85.2455595,20 L85.2455595,20 Z" id="Path" fill="url(#linearGradient-7)"></path>
+                <path d="M92,49 C64.1505376,71.1 65.4677419,108.122222 57,151 C72.2419355,110.766667 64.7150538,78.8444444 92,49 Z" id="Path" fill-opacity="0.316" fill="#330A4C"></path>
+                <path d="M50,225 C64.7131545,226.970987 72.2536462,228.941973 72.9893039,230.375418 C73.5410472,237.901004 52.574802,232.525586 50,225 Z" id="Path" fill="#FFFFFF"></path>
+                <path d="M57,20 C44.1128863,34.4736842 30.1051541,60.9774436 23.0079031,75.8270677 C21.1402054,88.0451128 22.0740542,105.338346 24.1285216,120 C25.8094495,85.7894737 38.1362539,46.3157895 57,20 Z" id="Path" fill-opacity="0.603" fill="#EDEDED"></path>
+            </g>
+        </g>
+    </g>
+</svg>

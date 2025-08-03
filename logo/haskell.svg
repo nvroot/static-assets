@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>haskell</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="haskell" transform="translate(-197, 112)">
+            <rect id="box" x="197" y="-112" width="240" height="240"></rect>
+            <g id="shape" transform="translate(197, -76)" fill-rule="nonzero">
+                <polyline id="Path" fill="#453A62" points="0 169 57.1428571 84.5 0 0 42.8571429 0 100 84.5 42.8571429 169"></polyline>
+                <polyline id="Path" fill="#5E5086" points="56 169 112.363636 84.5 56 0 98.2727273 0 211 169 168.727273 169 133.5 116.1875 98.2727273 169"></polyline>
+                <path d="M192.40738,120 L173.498575,91.6 L240,91.6 L240,120 M163.9943,77.4 L145,49 L240,49 L240,77.4" id="Shape" fill="#8F4E8B"></path>
+            </g>
+        </g>
+    </g>
+</svg>

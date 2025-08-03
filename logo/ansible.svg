@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#C32214;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g>
-	<path class="st0" d="M512,256c0,141.4-114.6,256-256,256S0,397.4,0,256S114.6,0,256,0S512,114.6,512,256"/>
-	<path class="st1" d="M260.3,156.4l66.2,163.5l-100.1-78.8L260.3,156.4L260.3,156.4z M378,357.6L276.1,112.3
-		c-2.9-7.1-8.7-10.8-15.8-10.8c-7.1,0-13.3,3.7-16.2,10.8l-111.8,269h38.3l44.3-110.9L347,377.1c5.3,4.3,9.1,6.2,14.1,6.2
-		c10,0,18.7-7.5,18.7-18.3C379.7,363.3,379.1,360.6,378,357.6L378,357.6z"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ansible</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ansible" fill-rule="nonzero">
+            <path d="M240,120 C240,186.28125 186.28125,240 120,240 C53.71875,240 0,186.28125 0,120 C0,53.71875 53.71875,0 120,0 C186.28125,0 240,53.71875 240,120" id="Path" fill="#C32214"></path>
+            <path d="M121.991919,73.7161107 L153.01899,150.302342 L106.103434,113.391057 L121.991919,73.7161107 Z M177.156364,167.961675 L129.397172,53.058907 C128.03798,49.7331441 125.319596,48 121.991919,48 C118.664242,48 115.758384,49.7331441 114.399192,53.058907 L62,179.063165 L79.9507071,179.063165 L100.713535,127.115685 L162.627071,177.095813 C165.111111,179.110007 166.892121,180 169.235556,180 C173.922424,180 178,176.48687 178,171.427963 C177.953131,170.631654 177.671919,169.366927 177.156364,167.961675" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
 </svg>
