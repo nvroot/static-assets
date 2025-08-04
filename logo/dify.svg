@@ -1,1 +1,13 @@
-<svg fill="currentColor" fill-rule="evenodd" height="1em" style="flex:none;line-height:1" viewBox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg"><title>Dify</title><clipPath id="lobe-icons-dify-fill"><path d="M1 0h10.286c6.627 0 12 5.373 12 12s-5.373 12-12 12H1V0z"></path></clipPath><foreignObject clip-path="url(#lobe-icons-dify-fill)" height="24" style="background:conic-gradient(from 180deg at 50% 50%, #0222C3, #8FB1F4, #FFFFFF)" width="24"></foreignObject></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="241px" viewBox="0 0 241 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>dify</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dify" transform="translate(-58.124, -54.6838)">
+            <rect id="box" x="59" y="55" width="240" height="240"></rect>
+            <g id="shape" transform="translate(59, 71)" fill="#0033FF" fill-rule="nonzero">
+                <path d="M70.4998554,45 C86.9110247,45 93,34.9387978 93,22.5000289 C93,10.0612311 86.9399441,0 70.4998554,0 C54.0600559,0 48,10.0612311 48,22.5000289 C48,34.9387978 54.0600559,45 70.4998554,45 Z" id="Path"></path>
+                <path d="M148.832431,49.610485 L148.832431,64.01994 L112.043395,64.01994 L112.043395,96.0155409 L148.832431,96.0155409 L148.832431,176.033453 L88.0177613,176.033453 L88.0177613,63.9911735 L8.02774611,63.9911735 L8.02774611,95.9867743 L52.8165901,95.9867743 L52.8165901,176.004687 L0,176.004687 L0,208 L240,208 L240,176.004687 L184.005664,176.004687 L184.005664,95.9867743 L240,95.9867743 L240,63.9911735 L184.005664,63.9911735 L184.005664,31.9955727 L240,31.9955727 L240,0 L198.386597,0 C171.038919,0 148.774827,22.2640772 148.774827,49.610485 L148.832431,49.610485 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
