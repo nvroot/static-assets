@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="240px" height="241px" viewBox="0 0 240 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="241px" height="240px" viewBox="0 0 241 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>erlang</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"></g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="erlang" transform="translate(-12.8286, 0)">
+            <rect id="box" x="13" y="0" width="240" height="240"></rect>
+            <rect id="background" fill="#FFFFFF" x="13" y="44" width="240" height="152"></rect>
+            <path d="M51.0313263,196 C32.3206664,176.190476 21.1328491,148.952381 21.3257425,116.380952 C21.1328491,87.6190476 30.3917324,62.8571429 46.2089913,44 L13.0313263,44 L13.0313263,195.809524 L51.0313263,196 Z M222.689319,196 C230.704189,187.428571 237.955738,177.333333 244.443966,165.714286 L208.186221,147.619048 C195.400595,168.190476 176.890062,187.238095 151.127981,187.428571 C113.725254,187.238095 99.0313263,155.238095 99.0313263,114.095238 L238.909889,114.095238 C239.100719,109.52381 239.100719,107.238095 238.909889,105.142857 C239.86404,80.5714286 233.375812,60 221.544337,44 L253.031326,44 L253.031326,195.809524 L222.689319,196 Z M101.031326,79 C102.559685,60.4756098 117.270132,48.1890244 134.655207,48 C152.040282,48 164.649237,60.4756098 165.031326,79 L101.031326,79 Z" id="Shape" fill="#A90533" fill-rule="nonzero"></path>
+        </g>
+    </g>
 </svg>

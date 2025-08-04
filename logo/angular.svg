@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="241px" height="241px" viewBox="0 0 241 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>angular</title>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"></g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="angular" transform="translate(68.7991, -74.8173)">
+            <rect id="box" x="-68" y="75" width="240" height="240"></rect>
+            <g id="shape" transform="translate(-60, 75)" fill-rule="nonzero">
+                <polygon id="Path" fill="#DD0031" points="111.5 0 0 39.842838 17.0041377 187.559794 111.5 240 205.995862 187.559794 223 39.842838"></polygon>
+                <polygon id="Path" fill="#C3002F" points="111 0 111 26.6412347 111 26.5222195 111 240 205.919611 187.559794 223 39.842838"></polygon>
+                <path d="M111.618648,27 L42,184 L67.9564021,184 L81.9476688,148.864307 L141.043205,148.864307 L155.0436,184 L181,184 L111.618648,27 Z M131.952988,127.211985 L91.2843077,127.211985 L111.618648,78.0054943 L131.952988,127.211985 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
 </svg>
