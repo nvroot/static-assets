@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>alacritty</title>
+    <defs>
+        <linearGradient x1="-7.43996832e-07%" y1="50.0000079%" x2="99.9999973%" y2="50.0000079%" id="linearGradient-1">
+            <stop stop-color="#EC2802" offset="0%"></stop>
+            <stop stop-color="#FCB200" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.76618%" y1="81.7449684%" x2="53.76618%" y2="19.6980031%" id="linearGradient-2">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.6174887%" y1="-4.45477615e-07%" x2="49.6174887%" y2="100.163935%" id="linearGradient-3">
+            <stop stop-color="#AAAAAA" offset="0%"></stop>
+            <stop stop-color="#424242" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.617493%" y1="-2.7996613e-05%" x2="49.617493%" y2="100.163912%" id="linearGradient-4">
+            <stop stop-color="#AAAAAA" offset="0%"></stop>
+            <stop stop-color="#424242" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.1588798%" y1="2.73520051e-06%" x2="50.0000038%" y2="108.125014%" id="linearGradient-5">
+            <stop stop-color="#EC2802" offset="0%"></stop>
+            <stop stop-color="#FCB200" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alacritty" transform="translate(-204, 77)">
+            <rect id="box" x="204" y="-77" width="240" height="240"></rect>
+            <g id="shape" transform="translate(204, -65)">
+                <g id="top" transform="translate(10, 0)">
+                    <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="219" height="23" rx="2.0726831"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-2)" opacity="0.5" x="0" y="0" width="219" height="23" rx="2.0726831"></rect>
+                </g>
+                <g id="box" transform="translate(0, 10)">
+                    <rect id="Rectangle" fill="#DEDEDE" x="0" y="0" width="240" height="204.247662" rx="3.40678096"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="1.91865918" width="240" height="203.081341" rx="3.40678096"></rect>
+                    <rect id="Rectangle" fill="url(#linearGradient-4)" transform="translate(120.0019, 103.7659) scale(-1, 1) rotate(-180) translate(-120.0019, -103.7659)" x="15.3525" y="16.0098681" width="209.29875" height="175.512057" rx="1.64267194"></rect>
+                </g>
+                <g id="back" transform="translate(17, 27)">
+                    <rect id="Rectangle" fill="#000000" x="0" y="0" width="208" height="172" rx="1.53065503"></rect>
+                    <polygon id="Path" fill="#14232B" points="4.36250597 3.60745465 203.637498 3.60745465 203.637498 168.392545 4.36250597 168.392545"></polygon>
+                </g>
+                <g id="a" transform="translate(52, 37)">
+                    <path d="M56.2640003,91.5218003 L52.7386422,100.106725 C62.2116396,129.424742 62.2116396,129.424742 67.5,155 C72.7883604,129.424742 72.7883604,129.424742 82.2613578,100.106725 L78.7359997,91.5218003 L67.5,64.1599451 L56.2640003,91.5218003 Z" id="Path" fill="#069EFE"></path>
+                    <polygon id="Path" fill="url(#linearGradient-5)" points="55.0657934 0 79.9342066 0 135 137.357647 111.907893 137.357647 67.5 32.4480565 23.092107 137.357647 0 137.357647"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

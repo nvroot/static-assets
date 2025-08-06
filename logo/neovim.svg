@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>neovim</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#16B0ED" stop-opacity="0.800235524" offset="0%"></stop>
+            <stop stop-color="#0F59B2" stop-opacity="0.83700023" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#7DB643" offset="0%"></stop>
+            <stop stop-color="#367533" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#88C649" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#439240" stop-opacity="0.84" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="neovim">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(21, 0)" fill-rule="nonzero">
+                <polygon id="Left---green" fill="url(#linearGradient-1)" points="0 51.6166154 51.021675 0 51.021674 240 0 188.979534"></polygon>
+                <polygon id="Right---blue" fill="url(#linearGradient-2)" transform="translate(172.0731, 120) scale(-1, 1) translate(-172.0731, -120)" points="146.411192 52.0821115 198.08415 0 197.036725 240 146.06205 188.973607"></polygon>
+                <polygon id="Cross---blue" fill="url(#linearGradient-3)" points="51.2459369 0 184.0782 202.80979 146.907725 240 14.00595 37.6391265"></polygon>
+                <polygon id="Shadow" fill-opacity="0.13" fill="#000000" points="51.021675 93.0680435 50.9511363 101 10.00425 40.8434809 13.7956985 37"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
