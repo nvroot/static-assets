@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="240px" viewBox="0 0 241 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gsma</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gsma" transform="translate(1, 0)" fill-rule="nonzero">
+            <path d="M-2.8e-05,207.999972 L-2.8e-05,31.999972 C-2.8e-05,14.32686 14.32686,-2.8e-05 31.999972,-2.8e-05 L207.999972,-2.8e-05 C225.673084,-2.8e-05 239.999972,14.32686 239.999972,31.999972 L239.999972,207.999972 C239.999972,225.673084 225.673084,239.999972 207.999972,239.999972 L31.999972,239.999972 C14.32686,239.999972 -2.8e-05,225.673084 -2.8e-05,207.999972 Z" id="Path"></path>
+            <g id="Group" transform="translate(-1, 68)">
+                <polygon id="Path" fill="#5E0F08" points="25.8921162 73 0 73 0 104 25.8921162 104"></polygon>
+                <polygon id="Path" fill="#9C1F24" points="74.6887967 58 35.8506224 58 35.8506224 104 74.6887967 104"></polygon>
+                <polygon id="Path" fill="#BF2730" points="143.40249 35 84.6473029 35 84.6473029 104 143.40249 104"></polygon>
+                <polygon id="Path" fill="#CE2B34" points="240 0 153.360996 0 153.360996 104 240 104"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

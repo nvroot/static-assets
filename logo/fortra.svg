@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fortra</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fortra" transform="translate(-159, -36)">
+            <rect id="box" fill="#006A56" x="159" y="36" width="240" height="240" rx="32"></rect>
+            <path d="M279,82 L207,228 L351,228 L279,82 Z M247,203 L279.5,137 L312,203 L247,203 Z" id="Shape" fill="#8FE5F2" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
