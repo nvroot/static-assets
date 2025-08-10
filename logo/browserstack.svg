@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>browserstack</title>
+    <defs>
+        <radialGradient cx="50.141%" cy="50.003%" fx="50.141%" fy="50.003%" r="50.119%" id="radialGradient-1">
+            <stop stop-color="#797979" offset="0%"></stop>
+            <stop stop-color="#4C4C4C" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="browserstack">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <circle id="Oval" fill="#F5BB60" fill-rule="nonzero" cx="119.952188" cy="120.565312" r="119.434688"></circle>
+            <circle id="Oval" fill="#E86F32" fill-rule="nonzero" cx="107.775937" cy="108.389062" r="107.517188"></circle>
+            <circle id="Oval" fill="#E53D42" fill-rule="nonzero" cx="122.025" cy="94.14" r="93.2671875"></circle>
+            <circle id="Oval" fill="#BFD141" fill-rule="nonzero" cx="129.538125" cy="101.653125" r="85.7540625"></circle>
+            <circle id="Oval" fill="#6DB64C" fill-rule="nonzero" cx="123.320625" cy="107.870625" r="79.5365625"></circle>
+            <circle id="Oval" fill="#AFDBE7" fill-rule="nonzero" cx="110.625938" cy="95.435625" r="66.841875"></circle>
+            <circle id="Oval" fill="#57BADF" fill-rule="nonzero" cx="121.506562" cy="84.2953125" r="55.9603125"></circle>
+            <circle id="Oval" fill="#02B2D6" fill-rule="nonzero" cx="128.502187" cy="91.29" r="49.224375"></circle>
+            <circle id="Oval" fill="url(#radialGradient-1)" fill-rule="nonzero" cx="121.247812" cy="98.2846875" r="41.97"></circle>
+            <circle id="Oval" fill="#231F20" fill-rule="nonzero" cx="121.247812" cy="98.2846875" r="41.97"></circle>
+            <path d="M132.27,92.7853125 C136.431562,94.6528125 142.17,90.8953125 145.0875,84.39375 C148.005,77.8921875 146.99625,71.1065625 142.835625,69.24 C138.673125,67.3725 132.935625,71.13 130.018125,77.6315625 C127.100625,84.133125 128.108438,90.91875 132.27,92.7853125" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

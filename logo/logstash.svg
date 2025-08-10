@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logstash</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logstash" transform="translate(0, -0)">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="#00BFB3" fill-rule="nonzero" points="135 240 217.5 240 217.5 150 135 150"></polygon>
+            <path d="M22.5,0 L15,0 L15,150 L112.5,150 L112.5,90 C112.5,40.29 72.2025,0 22.5,0" id="Path" fill="#FEC514" fill-rule="nonzero"></path>
+            <path d="M15,150 C15,199.7025 55.2975,240 105,240 L112.5,240 L112.5,150 L15,150 Z" id="Path" fill="#343741" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>stackoverflow</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stackoverflow">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="#BBBBBB" fill-rule="nonzero" points="189.51 154.70625 210.84375 154.70625 210.84375 240 18.84375 240 18.84375 154.70625 40.175625 154.70625 40.175625 218.675625 189.508125 218.675625"></polygon>
+            <path d="M63.42375,148.36875 L168.19875,170.3775 L172.60125,149.44125 L67.83375,127.419375 L63.42375,148.36875 Z M77.2875,98.21625 L174.346875,143.40375 L183.391875,123.999375 L86.326875,78.811875 L77.2875,98.21625 Z M104.145,50.62125 L186.4275,119.11875 L200.131875,102.665625 L117.8475,34.1775 L104.145,50.62125 Z M157.26375,0 L140.075625,12.76875 L203.975625,98.6475 L221.15625,85.87875 L157.26375,0 Z M61.5075,197.35125 L168.17625,197.35125 L168.17625,176.026875 L61.5075,176.026875 L61.5075,197.35125 Z" id="Shape" fill="#F58025" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

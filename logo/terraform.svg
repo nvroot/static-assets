@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>terraform</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="terraform">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <g id="Group" fill-rule="nonzero">
+                <polygon id="Path" fill="#5C4EE5" points="146.139375 83.4375 146.139375 152.505 86.8575 117.97125 86.8575 48.90375"></polygon>
+                <polygon id="Path" fill="#4040B2" points="152.64375 152.505 211.955625 117.97125 211.955625 48.90375 152.64375 83.4375"></polygon>
+                <path d="M21.07875,79.425 L80.3625,113.955 L80.3625,44.889375 L21.07875,10.355625 L21.07875,79.425 Z M146.139375,160.078125 L86.8575,125.544375 L86.8575,194.581875 L146.139375,229.115625 L146.139375,160.078125 Z" id="Shape" fill="#5C4EE5"></path>
+            </g>
+        </g>
+    </g>
+</svg>

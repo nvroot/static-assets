@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>miro</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="miro">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M0,60 C0,26.863125 26.863125,0 60,0 L180,0 C213.136875,0 240,26.863125 240,60 L240,180 C240,213.136875 213.136875,240 180,240 L60,240 C26.863125,240 0,213.136875 0,180 L0,60 Z" id="Path" fill="#FFDD33" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#000000" fill-rule="nonzero" points="159.557812 45.75 137.77125 45.75 155.926875 77.649375 115.984687 45.75 94.198125 45.75 114.169687 84.73875 72.4115625 45.75 50.625 45.75 72.4115625 95.3784375 50.625 194.625 72.4115625 194.625 114.169687 88.288125 94.198125 194.625 115.984687 194.625 155.926875 81.19875 137.77125 194.625 159.557812 194.625 199.5 70.5590625"></polygon>
+        </g>
+    </g>
+</svg>

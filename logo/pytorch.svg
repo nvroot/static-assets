@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pytorch</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pytorch">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M187.6875,71.8125 L170.4375,89.0625 C198.75,117.375 198.75,162.9375 170.4375,190.875 C142.125,219.1875 96.5625,219.1875 68.625,190.875 C40.3125,162.5625 40.3125,117 68.625,89.0625 L113.625,44.0625 L120,37.6875 L120,3.75 L52.125,71.625 C14.4375,109.3125 14.4375,170.25 52.125,208.125 C89.8125,246 150.75,245.8125 187.875,208.125 C225.5625,170.25 225.5625,109.6875 187.6875,71.8125" id="Path" fill="#EE4C2C" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#EE4C2C" fill-rule="nonzero" transform="translate(153.8825, 55.0678) rotate(-88.939) translate(-153.8825, -55.0678)" cx="153.882462" cy="55.0677911" r="12.5621231"></circle>
+        </g>
+    </g>
+</svg>

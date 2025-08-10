@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>jetbrains-space</title>
+    <defs>
+        <linearGradient x1="45.082%" y1="-1.343%" x2="55.522%" y2="97.61%" id="linearGradient-1">
+            <stop stop-color="#FCF84A" offset="0%"></stop>
+            <stop stop-color="#ABE682" offset="32%"></stop>
+            <stop stop-color="#36CDD2" offset="79%"></stop>
+            <stop stop-color="#07C3F2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.942%" y1="38.992%" x2="100.445%" y2="62.105%" id="linearGradient-2">
+            <stop stop-color="#3BEA62" offset="0%"></stop>
+            <stop stop-color="#087CFA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.308%" y1="71.807%" x2="111.745%" y2="15.462%" id="linearGradient-3">
+            <stop stop-color="#009AE5" offset="0%"></stop>
+            <stop stop-color="#0490DD" offset="18%"></stop>
+            <stop stop-color="#1073C6" offset="49%"></stop>
+            <stop stop-color="#2346A1" offset="89%"></stop>
+            <stop stop-color="#293896" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jetbrains-space" transform="translate(0, -0)">
+            <rect id="ViewBox" x="0" y="1.5503123e-05" width="240" height="240"></rect>
+            <path d="M43.4625,239.991578 C128.845312,232.512203 203.758125,180.066578 240,102.396578 C195.1125,38.249078 121.755937,0.0309530031 43.4625,1.5503123e-05 C36.4875,1.5503123e-05 29.48,0.309390503 22.44,0.928140503 C-13.75875,78.649703 -5.745,169.780328 43.4625,239.991578" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <path d="M22.695,0.960015503 C73.7814892,21.7265965 117.674013,56.9875924 148.963125,102.396578 L240,102.396578 C195.246563,38.2125155 121.933125,-0.0281094969 43.6875,0 C36.710625,0 29.713125,0.320015503 22.695,0.960015503" id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+            <path d="M148.963125,102.395641 C137.987813,174.937516 43.366875,239.990641 43.366875,239.990641 C129.411563,231.862516 204.8325,180.345016 240,102.395641 L148.963125,102.395641 Z" id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

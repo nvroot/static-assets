@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kubeflow</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kubeflow" transform="translate(0, -0)">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M66.73125,81.8625 L72.04875,214.321875 L167.724375,92.22 C169.179881,90.3653077 171.315263,89.1680363 173.656875,88.89375 C175.996026,88.6243432 178.34571,89.3022405 180.181875,90.77625 L239.86125,138.676875 L220.39875,53.56125 L66.73125,81.8625 Z" id="Path" fill="#4279F4" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#0028AA" fill-rule="nonzero" points="75.358125 238.61625 160.231875 238.61625 108.12 196.809375"></polygon>
+            <polygon id="Path" fill="#014BD1" fill-rule="nonzero" points="176.06625 110.105625 118.989375 182.93625 179.803125 231.73125 237.496875 159.39"></polygon>
+            <polygon id="Path" fill="#BEDCFF" fill-rule="nonzero" points="50.728125 69.09 50.735625 69.075 100.929375 6.13125 19.9875 45.110625 7.81597009e-14 132.691875"></polygon>
+            <polygon id="Path" fill="#6CA1FF" fill-rule="nonzero" points="1.11375 159.571875 54.87375 226.985625 49.755 98.57625"></polygon>
+            <polygon id="Path" fill="#A1C3FF" fill-rule="nonzero" points="204.778125 38.5125 127.381875 1.2375 79.213125 61.640625"></polygon>
+        </g>
+    </g>
+</svg>

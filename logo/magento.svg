@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>magento</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="magento">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M224.6625,59.94375 L224.6625,179.9625 L194.94375,197.0625 L194.94375,77.19375 L120.65625,34.25625 L46.33125,77.19375 L46.51875,197.11875 L16.85625,179.9625 L16.85625,60.0375 L120.84375,0 L224.6625,59.94375 Z M135.5625,197.0625 L120.75,205.6875 L105.84375,197.15625 L105.84375,77.19375 L76.18125,94.35 L76.2375,214.275 L120.7125,240 L165.28125,214.275 L165.28125,94.29375 L135.5625,77.1375 L135.5625,197.0625 Z" id="Shape" fill="#F26322" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

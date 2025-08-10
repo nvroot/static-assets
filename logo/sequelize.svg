@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sequelize</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sequelize">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polyline id="Path" fill="#2F406A" fill-rule="nonzero" points="190.95 78.225 190.95 161.25 120.3375 203.1 119.7 203.68125 119.7 234.75 120.3375 235.35 219.7125 177.9 219.7125 62.1 218.775 61.875 190.65 77.55 190.8 78.225"></polyline>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="49.5 162 120.3375 203.1 120.3375 235.35 20.2125 177.675 20.2125 62.325 21.24375 62.175 49.2 78.43125 49.5 79.36875"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="49.5 79.35 20.2125 62.325 120.1125 4.65 219.7875 62.1 190.95 78.225 120.1125 37.8"></polygon>
+            <polyline id="Path" fill="#2F406A" fill-rule="nonzero" points="119.11875 152.49375 118.35 151.70625 118.35 120.50625 119.11875 120.1125 119.30625 119.34375 146.0625 103.74375 146.8875 103.93125 146.8875 136.0875 119.1375 152.5125"></polyline>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="90.9 137.08125 90.9 103.6875 91.66875 103.6875 118.875 119.53125 119.1 120.15 119.1 152.49375"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="118.66875 87.2625 90.9 103.6875 119.11875 120.1125 146.86875 103.9125"></polygon>
+            <polyline id="Path" fill="#2F406A" fill-rule="nonzero" points="84.58125 172.85625 83.8125 172.06875 83.8125 140.86875 84.58125 140.475 84.76875 139.70625 111.525 124.10625 112.35 124.29375 112.35 156.43125 84.6 172.85625"></polyline>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="56.3625 157.5 56.3625 124.05 57.13125 124.05 84.375 139.85625 84.6 140.475 84.6 172.85625"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="84.1125 107.625 56.3625 124.05 84.58125 140.475 112.33125 124.275"></polygon>
+            <polygon id="Path" fill="#2F406A" fill-rule="nonzero" points="156.13125 173.625 155.3625 172.8375 155.3625 141.6375 156.13125 141.24375 156.31875 140.475 183.075 124.875 183.9 125.0625 183.9 157.2"></polygon>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="127.9125 158.2125 127.9125 124.81875 128.68125 124.81875 155.90625 140.625 156.13125 141.24375 156.13125 173.625"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="155.625 108.39375 127.875 124.81875 156.09375 141.24375 183.84375 125.04375"></polygon>
+            <polyline id="Path" fill="#2F406A" fill-rule="nonzero" points="121.59375 193.9875 120.825 193.2 120.825 162 121.59375 161.60625 121.78125 160.8375 148.5375 145.2375 149.3625 145.425 149.3625 177.5625 121.6125 193.9875"></polyline>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="93.375 178.55625 93.375 145.18125 94.14375 145.18125 121.35 161.025 121.575 161.64375 121.575 194.025"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="121.125 128.75625 93.375 145.18125 121.59375 161.60625 149.34375 145.40625"></polygon>
+            <polyline id="Path" fill="#2F406A" fill-rule="nonzero" points="119.11875 108.24375 118.35 107.45625 118.35 76.25625 119.11875 75.8625 119.30625 75.09375 146.0625 59.475 146.8875 59.6625 146.8875 91.875 119.1375 108.3"></polyline>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="90.9 92.8125 90.9 59.4375 91.66875 59.4375 118.875 75.28125 119.1 75.9 119.1 108.24375"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="118.66875 43.0125 90.9 59.4375 119.11875 75.8625 146.86875 59.6625"></polygon>
+            <polyline id="Path" fill="#2F406A" fill-rule="nonzero" points="84.58125 128.60625 83.8125 127.81875 83.8125 96.61875 84.58125 96.225 84.76875 95.45625 111.525 79.85625 112.35 80.04375 112.35 112.18125 84.6 128.60625"></polyline>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="56.3625 113.175 56.3625 79.78125 57.13125 79.78125 84.375 95.625 84.6 96.24375 84.6 128.60625"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="84.1125 63.375 56.3625 79.8 84.58125 96.225 112.33125 80.025"></polygon>
+            <polygon id="Path" fill="#2F406A" fill-rule="nonzero" points="156.13125 129.375 155.3625 128.5875 155.3625 97.3875 156.13125 96.99375 156.31875 96.225 183.075 80.625 183.9 80.8125 183.9 112.95"></polygon>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="127.9125 113.94375 127.9125 80.625 128.68125 80.625 155.8875 96.46875 156.1125 97.0875 156.1125 129.375"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="155.625 64.14375 127.9125 80.625 156.13125 97.05 183.88125 80.85"></polygon>
+            <polyline id="Path" fill="#2F406A" fill-rule="nonzero" points="121.59375 149.71875 120.825 148.93125 120.825 117.73125 121.59375 117.3375 121.78125 116.56875 148.5375 100.96875 149.3625 101.15625 149.3625 133.29375 121.6125 149.71875"></polyline>
+            <polygon id="Path" fill="#2379BD" fill-rule="nonzero" points="93.375 134.30625 93.375 100.9125 94.14375 100.9125 121.35 116.75625 121.575 117.375 121.575 149.71875"></polygon>
+            <polygon id="Path" fill="#03AFEF" fill-rule="nonzero" points="121.125 84.4875 93.375 100.9125 121.59375 117.3375 149.34375 101.1375"></polygon>
+        </g>
+    </g>
+</svg>

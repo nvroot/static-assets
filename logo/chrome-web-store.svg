@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chrome-web-store</title>
+    <defs>
+        <path d="M239.984062,0 L0,0 L0,192.034687 C0,201.065625 7.325625,208.407187 16.3725,208.407187 L223.6275,208.407187 C232.658438,208.407187 240,201.081562 240,192.034687 L239.984062,0 Z" id="path-1"></path>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#D93025" offset="0%"></stop>
+            <stop stop-color="#EA4335" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="74.943%" y1="95.826%" x2="19.813%" y2="-4.161%" id="linearGradient-4">
+            <stop stop-color="#1E8E3E" offset="0%"></stop>
+            <stop stop-color="#34A853" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="59.898%" y1="-0.134%" x2="21.416%" y2="99.86%" id="linearGradient-5">
+            <stop stop-color="#FBBC04" offset="0%"></stop>
+            <stop stop-color="#FCC934" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chrome-web-store" transform="translate(0, 0)">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 16)">
+                <path d="M239.984062,0 L0,0 L0,192.034687 C0,201.065625 7.325625,208.407187 16.3725,208.407187 L223.6275,208.407187 C232.658438,208.407187 240,201.081562 240,192.034687 L239.984062,0 Z" id="Path" fill="#F1F3F4" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#E8EAED" fill-rule="nonzero" points="0 0 239.984062 0 239.984062 104.75625 0 104.75625"></polygon>
+                <path d="M147.25875,44.7440645 L92.7253125,44.7440645 C89.8313497,44.7458049 87.0554155,43.5969542 85.0090744,41.5506131 C82.9627333,39.504272 81.8138826,36.7283378 81.815623,33.834375 C81.8138826,30.9404122 82.9627333,28.164478 85.0090744,26.1181369 C87.0554155,24.0717958 89.8313497,22.9229451 92.7253125,22.9246855 L147.25875,22.9246855 C150.152713,22.9229451 152.928647,24.0717958 154.974988,26.1181369 C157.021329,28.164478 158.17018,30.9404122 158.168439,33.834375 C158.168439,39.8503125 153.289688,44.7440645 147.25875,44.7440645" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <g id="Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="logosChromeWebStore3"></g>
+                    <g id="Group" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(16.3641, 88.3997)">
+                            <path d="M13.88625,51.8015625 L28.1746875,95.3934375 L58.7728125,129.54375 L103.6275,51.8175 L193.36875,51.8015625 C175.449375,20.8246875 141.977813,0 103.6275,0 C65.2771875,0 31.805625,20.8246875 13.88625,51.8015625" id="Path" fill="url(#linearGradient-3)"></path>
+                            <path d="M103.6125,207.286875 L134.209688,173.120625 L148.482188,129.54375 L58.756875,129.54375 L13.88625,51.8015625 C-3.9703125,82.8103125 -5.2809375,122.234063 13.9021875,155.4525 C33.069375,188.671875 67.850625,207.255 103.611562,207.286875" id="Path" fill="url(#linearGradient-4)"></path>
+                            <path d="M193.36875,51.8175 L103.6275,51.8175 L148.498125,129.54375 L103.6275,207.285938 C139.404375,207.255 174.186562,188.671875 193.35375,155.4525 C212.535937,122.234063 211.22625,82.82625 193.36875,51.8175" id="Path" fill="url(#linearGradient-5)"></path>
+                            <ellipse id="Oval" fill="#F1F3F4" cx="103.6275" cy="103.635" rx="51.8015625" ry="51.8175"></ellipse>
+                            <ellipse id="Oval" fill="#1A73E8" cx="103.6275" cy="103.635" rx="42.091875" ry="42.1078125"></ellipse>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

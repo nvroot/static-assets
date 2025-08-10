@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>phpstorm</title>
+    <defs>
+        <linearGradient x1="40.0834234%" y1="64.1054182%" x2="55.5193298%" y2="48.0269658%" id="linearGradient-1">
+            <stop stop-color="#AF1DF5" offset="0%"></stop>
+            <stop stop-color="#BC20E4" offset="21%"></stop>
+            <stop stop-color="#DD29B8" offset="63%"></stop>
+            <stop stop-color="#FF318C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="42.811427%" y1="78.6060423%" x2="63.356083%" y2="-3.93911266%" id="linearGradient-2">
+            <stop stop-color="#6B57FF" offset="2%"></stop>
+            <stop stop-color="#B74AF7" offset="42%"></stop>
+            <stop stop-color="#FF318C" offset="75%"></stop>
+        </linearGradient>
+        <linearGradient x1="73.0518005%" y1="102.513847%" x2="32.0188254%" y2="-3.46389271%" id="linearGradient-3">
+            <stop stop-color="#293896" offset="0%"></stop>
+            <stop stop-color="#3B3AA2" offset="8%"></stop>
+            <stop stop-color="#6740C0" offset="29%"></stop>
+            <stop stop-color="#8A44D8" offset="49%"></stop>
+            <stop stop-color="#A347E9" offset="68%"></stop>
+            <stop stop-color="#B249F3" offset="86%"></stop>
+            <stop stop-color="#B74AF7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="62.6246407%" y1="72.6015051%" x2="39.5631368%" y2="45.689508%" id="linearGradient-4">
+            <stop stop-color="#6B57FF" offset="2%"></stop>
+            <stop stop-color="#B74AF7" offset="78%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="phpstorm">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="131.40375 51.151875 124.095 29.026875 47.72625 12.568125 10.2825 54.924375 51.43125 75.975 51.43125 51.15"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="51.43125 65.55 10.2825 54.92625 31.201875 180.55125 51.358125 180.39"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="188.56875 51.151875 117.00375 51.151875 145.75875 25.5975 201.166875 35.889375 229.7175 106.831875 188.59125 147.67875"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero" points="188.62125 105.894375 188.56875 188.29875 70.76625 188.29875 73.805625 206.22 147.774375 232.00125 229.7175 182.95125"></polygon>
+            <polygon id="Path" fill="#000000" fill-rule="nonzero" points="51.43125 51.43125 188.56875 51.43125 188.56875 188.56875 51.43125 188.56875"></polygon>
+            <path d="M68.525625,162.64875 L119.956875,162.64875 L119.956875,171.225 L68.525625,171.225 L68.525625,162.64875 Z M113.371875,112.618125 L120.065625,104.596875 C124.276206,108.479208 129.751096,110.704069 135.47625,110.859375 C140.045625,110.859375 142.925625,109.006875 142.925625,105.988125 L142.925625,105.849375 C142.925625,102.97125 141.144375,101.484375 132.525,99.294375 C122.124375,96.643125 115.42875,93.7575 115.42875,83.518125 L115.42875,83.356875 C115.42875,74.011875 122.95125,67.815 133.485,67.815 C140.440044,67.6937746 147.217253,70.0160999 152.63625,74.3775 L146.74125,82.925625 C142.884399,79.9155045 138.205384,78.1457555 133.321875,77.85 C128.979375,77.85 126.69375,79.84125 126.69375,82.419375 L126.69375,82.580625 C126.69375,85.965 128.98125,87.15 137.8275,89.443125 C148.30125,92.1825 154.19625,95.9325 154.19625,104.911875 L154.19625,105.073125 C154.19625,115.3125 146.37375,121.076511 135.249375,121.076511 C127.190116,121.108398 119.401549,118.169996 113.371875,112.8225 M68.56875,68.56875 L89.596875,68.56875 C101.85,68.56875 109.276875,75.84375 109.276875,86.330625 L109.276875,86.469375 C109.276875,98.356875 100.02,104.525625 88.505625,104.525625 L80.0025,104.525625 L80.0025,119.934375 L68.56875,119.934375 L68.56875,68.56875 Z M88.820625,94.468125 C94.468125,94.468125 97.785,91.10625 97.785,86.69625 L97.785,86.5575 C97.785,81.489375 94.261875,78.765 88.636875,78.765 L80.0025,78.765 L80.0025,94.468125 L88.820625,94.468125 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

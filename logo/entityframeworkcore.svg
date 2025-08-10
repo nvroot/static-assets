@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>entityframeworkcore</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="entityframeworkcore">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="#512BD4" fill-rule="nonzero" points="0 0 240 0 240 240 0 240"></polygon>
+            <path d="M136.91625,151.185 L126.763125,151.185 L126.763125,88.815 L162,88.815 L162,97.4325 L136.91625,97.4325 L136.91625,116.8875 L160.38,116.8875 L160.38,125.46375 L136.91625,125.46375 L136.91625,151.18875 L136.91625,151.185 Z M113.325,151.185 L78.001875,151.185 L78.001875,88.815 L113.326875,88.815 L113.326875,97.4325 L88.2375,97.4325 L88.2375,114.369375 L111.744375,114.369375 L111.744375,122.94375 L88.24125,122.94375 L88.24125,142.524375 L113.325,142.524375 L113.325,151.185 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

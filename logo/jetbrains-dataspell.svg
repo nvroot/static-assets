@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>jetbrains-dataspell</title>
+    <defs>
+        <linearGradient x1="111.942969%" y1="50.0396955%" x2="11.895469%" y2="50.0396955%" id="linearGradient-1">
+            <stop stop-color="#21D789" offset="0%"></stop>
+            <stop stop-color="#FCF84A" offset="91.7%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9641556%" y1="9.16934927%" x2="49.9641556%" y2="157.32656%" id="linearGradient-2">
+            <stop stop-color="#21D789" offset="0%"></stop>
+            <stop stop-color="#087CFA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="148.034361%" y1="124.781664%" x2="-0.96228068%" y2="14.9266321%" id="linearGradient-3">
+            <stop stop-color="#21D789" offset="10.5%"></stop>
+            <stop stop-color="#087CFA" offset="96.7%"></stop>
+        </linearGradient>
+        <linearGradient x1="84.5240397%" y1="-7.6954638%" x2="39.5117603%" y2="70.4150641%" id="linearGradient-4">
+            <stop stop-color="#21D789" offset="23.5%"></stop>
+            <stop stop-color="#087CFA" offset="74%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.8660972%" y1="-24.3081399%" x2="49.8660972%" y2="65.3754331%" id="linearGradient-5">
+            <stop stop-color="#878585" offset="8.4%"></stop>
+            <stop stop-color="#000000" offset="53.8%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jetbrains-dataspell">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="151.134375 10.905 155.45625 99.54375 45 143.180625 10.905 54.9975"></polygon>
+            <polygon id="Path" fill="#21D789" fill-rule="nonzero" points="229.095 62.724375 133.63875 104.0925 151.134375 10.905"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="127.95375 83.180625 229.095 62.724375 229.095 158.4075 159.54375 184.54875 131.131875 158.63625"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="85.905 55.224375 155.6925 66.020625 229.095 157.558125 158.634375 184.775625 131.446875 157.785"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero" points="55.905 10.905 155.45625 65.91 121.134375 229.095 63.178125 229.095 12.95625 177.275625"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-5)" fill-rule="nonzero" points="186.474375 53.525625 53.525625 53.525625 53.525625 186.474375 186.474375 186.474375"></polygon>
+            <path d="M117.78,163.57875 L68.29875,163.57875 L68.29875,171.70125 L117.78,171.70125 L117.78,163.57875 Z M68.86125,70.569375 L88.30125,70.569375 C104.07,70.569375 114.7125,81.204375 114.7125,95.14125 C114.7125,109.078125 104.0775,120.080625 88.30125,120.080625 L68.863125,120.44625 L68.86125,70.569375 Z M79.86375,80.836875 L79.86375,110.544375 L88.30125,110.544375 C97.104375,110.544375 103.33875,104.6775 103.33875,95.874375 C103.33875,87.07125 97.47,80.836875 88.30125,80.836875 L79.86375,80.836875 Z M120,112.9125 L126.42375,105.155625 C130.861875,108.920625 135.733125,111.13875 141.27,111.13875 C145.708125,111.13875 148.58625,109.366875 148.58625,106.48875 L148.58625,106.261875 C148.58625,103.38375 146.814375,102.050625 138.61125,99.838125 C128.4225,97.400625 121.99125,94.520625 121.99125,84.545625 L121.99125,84.32625 C121.99125,75.24375 129.309375,69.260625 139.49625,69.260625 C146.814375,69.260625 153.016875,71.473125 158.115,75.6825 L152.35125,83.885625 C147.920625,80.780625 143.488125,79.00875 139.276875,79.00875 C135.065625,79.00875 132.853125,81 132.853125,83.439375 L132.853125,83.65875 C132.853125,86.985 135.065625,88.089375 143.709375,90.309375 C153.90375,92.968125 159.66,96.51375 159.66,105.375 L159.66,105.601875 C159.66,115.57125 152.131875,121.108125 141.27,121.108125 C133.74,120.88875 125.983125,118.23 120,112.9125" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

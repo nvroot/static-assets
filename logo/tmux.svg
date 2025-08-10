@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tmux</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tmux">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <g id="Group" fill-rule="nonzero">
+                <path d="M0,174 L240,174 L240,217.494375 C240,229.92375 229.91625,240 217.501875,240 L22.5,240 C10.0725,240 0,229.940625 0,217.494375 L0,174 Z M0,174 L240,174 L240,219 L0,219 L0,174 Z" id="Shape" fill="#1BB91F"></path>
+                <path d="M124.5,105 L124.5,0 L115.5,0 L115.5,219 L124.5,219 L124.5,114 L240,114 L240,105 L124.5,105 Z M0,22.509375 C0,10.078125 10.08375,0 22.498125,0 L217.5,0 C229.9275,0 240,10.0875 240,22.509375 L240,219 L0,219 L0,22.509375 Z" id="Shape" fill="#3C3C3C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

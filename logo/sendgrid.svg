@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sendgrid</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sendgrid">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="#9DD6E3" fill-rule="nonzero" points="240 0 240 160.000313 160.000313 160.000313 160.000313 239.997188 0.001875 239.997188 0.001875 159.999375 0 159.999375 0 79.99875 79.9996875 79.99875 79.9996875 0"></polygon>
+            <polygon id="Path" fill="#3F72AB" fill-rule="nonzero" points="0.001875 239.99625 80.0015625 239.99625 80.0015625 159.996562 0.001875 159.996562"></polygon>
+            <path d="M160.000312,160.000313 L240,160.000313 L240,79.9978125 L160.000312,79.9978125 L160.000312,160.000313 Z M79.9996875,79.9996875 L160.000312,79.9996875 L160.000312,0 L79.9996875,0 L79.9996875,79.9996875 Z" id="Shape" fill="#00A9D1" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#2191C4" fill-rule="nonzero" points="79.9996875 159.998437 160.000313 159.998437 160.000313 79.9978125 79.9996875 79.9978125"></polygon>
+            <polygon id="Path" fill="#3F72AB" fill-rule="nonzero" points="160.000313 79.9996875 240 79.9996875 240 0 160.000313 0"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>brackets</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#29ABE2" offset="0%"></stop>
+            <stop stop-color="#28A9E1" offset="47.57%"></stop>
+            <stop stop-color="#23A2DC" offset="66.39%"></stop>
+            <stop stop-color="#1A96D4" offset="80.12%"></stop>
+            <stop stop-color="#0E85C9" offset="91.3%"></stop>
+            <stop stop-color="#0071BC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="brackets">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M240,192 C240,218.4 218.4,240 192,240 L48,240 C21.6,240 0,218.4 0,192 L0,48 C0,21.6 21.6,0 48,0 L192,0 C218.4,0 240,21.6 240,48 L240,192 Z" id="Path" fill="#115A91" fill-rule="nonzero"></path>
+            <path d="M192,26.4 C203.910938,26.4 213.6,36.0890625 213.6,48 L213.6,168 C213.6,179.910938 203.910938,189.6 192,189.6 L48,189.6 C36.0890625,189.6 26.4,179.910937 26.4,168 L26.4,48 C26.4,36.0890625 36.0890625,26.4 48,26.4 L192,26.4 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M192,26.4 C203.910938,26.4 213.6,36.0890625 213.6,48 L213.6,168 C213.6,179.910937 203.910938,189.6 192,189.6 L48,189.6 C36.0890625,189.6 26.4,179.910937 26.4,168 L26.4,48 C26.4,36.0890625 36.0890625,26.4 48,26.4 L192,26.4 Z M192,1.42108547e-14 L48,1.42108547e-14 C21.6,1.42108547e-14 0,21.6 0,48 L0,168 C0,194.4 21.6,216 48,216 L192,216 C218.4,216 240,194.4 240,168 L240,48 C240,21.6 218.4,1.42108547e-14 192,1.42108547e-14" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <g id="Group" fill="#4D4D4D" fill-rule="nonzero">
+                <polygon id="Path" points="187.2 50.4 187.2 165.6 127.2 165.6 127.2 136.8 160.8 136.8 160.8 76.8 127.2 76.8 127.2 50.4"></polygon>
+                <polygon id="Path" points="112.8 50.4 112.8 76.8 79.2 76.8 79.2 136.8 112.8 136.8 112.8 165.6 52.8 165.6 52.8 50.4"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>figma</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="figma" transform="translate(0, 0)">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(40, 0)" fill-rule="nonzero">
+                <path d="M40,240 C62.08,240 80,222.08 80,200 L80,160 L40,160 C17.92,160 0,177.92 0,200 C0,222.08 17.92,240 40,240" id="Path" fill="#0ACF83"></path>
+                <path d="M0,120 C0,97.92 17.92,80 40,80 L80,80 L80,160 L40,160 C17.92,160 0,142.08 0,120" id="Path" fill="#A259FF"></path>
+                <path d="M0,40 C0,17.92 17.92,0 40,0 L80,0 L80,80 L40,80 C17.92,80 0,62.08 0,40" id="Path" fill="#F24E1E"></path>
+                <path d="M80,0 L120,0 C142.08,0 160,17.92 160,40 C160,62.08 142.08,80 120,80 L80,80 L80,0 Z" id="Path" fill="#FF7262"></path>
+                <path d="M160,120 C160,142.08 142.08,160 120,160 C97.92,160 80,142.08 80,120 C80,97.92 97.92,80 120,80 C142.08,80 160,97.92 160,120" id="Path" fill="#1ABCFE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>nomad</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nomad">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M120,0 L16.066875,59.97 L16.066875,179.994375 L120,240 L223.933125,179.994375 L223.933125,59.97 L120,0 Z M166.306875,131.986875 L138.6075,147.9375 L105.15,129.7725 L105.15,168.0675 L73.695,187.970625 L73.695,108.009375 L98.6475,92.735625 L133.273125,110.986875 L133.273125,72 L166.325625,52.155 L166.306875,131.986875 Z" id="Shape" fill="#00CA8E" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

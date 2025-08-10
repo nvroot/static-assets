@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>trello</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2684FF" offset="0%"></stop>
+            <stop stop-color="#0052CC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="trello">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M23.4375,0 L216.5625,0 C229.546875,0 240,10.453125 240,23.4375 L240,216.5625 C240,229.546875 229.546875,240 216.5625,240 L23.4375,240 C10.453125,240 0,229.546875 0,216.5625 L0,23.4375 C0,10.453125 10.453125,0 23.4375,0" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+            <path d="M146.85,31.2 L197.55,31.2 C203.7825,31.2 208.8,36.2175 208.8,42.45 L208.8,124.95 C208.8,131.1825 203.7825,136.2 197.55,136.2 L146.85,136.2 C140.6175,136.2 135.6,131.1825 135.6,124.95 L135.6,42.45 C135.6,36.2175 140.6175,31.2 146.85,31.2 M42.45,31.2 L93.15,31.2 C99.3825,31.2 104.4,36.2175 104.4,42.45 L104.4,184.95 C104.4,191.1825 99.3825,196.2 93.15,196.2 L42.45,196.2 C36.2175,196.2 31.2,191.1825 31.2,184.95 L31.2,42.45 C31.2,36.2175 36.2175,31.2 42.45,31.2" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

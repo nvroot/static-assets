@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>jetbrains-datagrip</title>
+    <defs>
+        <linearGradient x1="48.641042%" y1="46.5700535%" x2="50.1217524%" y2="99.8514078%" id="linearGradient-1">
+            <stop stop-color="#21D789" offset="16%"></stop>
+            <stop stop-color="#419FBC" offset="54%"></stop>
+            <stop stop-color="#6B57FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.2489462%" y1="64.1168628%" x2="53.4747799%" y2="50.1035355%" id="linearGradient-2">
+            <stop stop-color="#6B57FF" offset="0%"></stop>
+            <stop stop-color="#21D789" offset="95%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.6572259%" y1="22.8192749%" x2="45.3463001%" y2="53.9534965%" id="linearGradient-3">
+            <stop stop-color="#6B57FF" offset="0%"></stop>
+            <stop stop-color="#685CFB" offset="2%"></stop>
+            <stop stop-color="#4A91CA" offset="28%"></stop>
+            <stop stop-color="#34B7A7" offset="51%"></stop>
+            <stop stop-color="#26CE91" offset="69%"></stop>
+            <stop stop-color="#21D789" offset="80%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.14122508%" y1="28.119506%" x2="124.373381%" y2="74.2051959%" id="linearGradient-4">
+            <stop stop-color="#21D789" offset="8%"></stop>
+            <stop stop-color="#6B57FF" offset="89%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.13868524%" y1="50.0177486%" x2="101.206009%" y2="50.155014%" id="linearGradient-5">
+            <stop stop-color="#21D789" offset="31%"></stop>
+            <stop stop-color="#59A3B2" offset="49%"></stop>
+            <stop stop-color="#B74AF7" offset="77%"></stop>
+            <stop stop-color="#FF45ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="jetbrains-datagrip">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero" points="215.728125 44.3925 229.715625 134.21625 203.863125 149.259375"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" fill-rule="nonzero" points="215.728125 44.3925 137.1675 10.2825 115.246875 28.4775"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" fill-rule="nonzero" points="158.56125 229.7175 36.665625 132.598125 12.18 206.22"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-4)" fill-rule="nonzero" points="175.539375 168.339375 10.2825 111.5625 158.56125 229.7175"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-5)" fill-rule="nonzero" points="10.2825 11.8425 10.2825 111.5625 200.705625 177.00375 215.728125 44.3925"></polygon>
+            <polygon id="Path" fill="#000000" fill-rule="nonzero" points="51.43125 51.151875 188.56875 51.151875 188.56875 188.29875 51.43125 188.29875"></polygon>
+            <path d="M65.3475,68.98125 L87.495,68.98125 C105.3225,68.98125 117.67125,81.2325 117.67125,97.215 L117.67125,97.36875 C117.67125,113.371875 105.3225,125.75625 87.495,125.75625 L65.3475,125.75625 L65.3475,68.98125 Z M77.8275,80.25 L77.8275,114.53625 L87.495,114.53625 C92.0816059,114.803288 96.5654988,113.107987 99.8281316,109.873255 C103.090764,106.638523 104.824512,102.169355 104.596875,97.580625 L104.596875,97.36875 C104.830412,92.7642468 103.104588,88.2759438 99.8463141,85.0140974 C96.5880404,81.752251 92.1016314,80.0215093 87.496875,80.25 L77.8275,80.25 Z M119.88375,97.53 L119.88375,97.36875 C119.824633,89.5015717 122.947366,81.9443938 128.542671,76.4137026 C134.137977,70.8830113 141.730914,67.8482631 149.596875,67.99875 C157.768999,67.5621435 165.784279,70.3616648 171.9075,75.79125 L164.0475,85.2825 C160.049334,81.4883257 154.719736,79.4181735 149.20875,79.51875 C140.068125,79.51875 132.890625,87.568125 132.890625,97.215 L132.890625,97.36875 C132.890625,107.746875 140.045625,115.3875 150.103125,115.3875 C154.291701,115.524084 158.417089,114.339404 161.895,112.00125 L161.895,103.86375 L149.325,103.86375 L149.325,93.076875 L173.985,93.076875 L173.985,117.736875 C167.257784,123.575644 158.641373,126.776654 149.73375,126.746465 C132.046875,126.746465 119.881875,114.286875 119.881875,97.53 L119.88375,97.53 Z M64.0425,162.560625 L115.47375,162.560625 L115.47375,171.129375 L64.0425,171.129375 L64.0425,162.560625 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

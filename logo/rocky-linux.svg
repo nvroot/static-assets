@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>rocky-linux</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rocky-linux">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M233.322188,159.571875 C237.64875,147.18375 240,133.865625 240,120 C240,53.7253125 186.27375,0 120,0 C53.72625,0 0,53.7253125 0,120 C0,152.792812 13.153125,182.513437 34.471875,204.1725 L156.196875,82.4475 L186.25125,112.5 L233.322188,159.571875 Z M211.4025,197.75625 L156.197813,142.5525 L69.7471875,229.002187 C85.0340625,236.0625 102.05625,240 120,240 C156.609375,240 189.392812,223.605 211.4025,197.75625" id="Shape" fill="#10B981" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

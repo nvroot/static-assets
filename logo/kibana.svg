@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kibana</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kibana" transform="translate(0, -0)">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <path d="M210,0 L22.5,0 L22.5,90 C54.9375,90 85.3875,98.349375 111.99375,112.8525 L210,0 Z" id="Path" fill="#F04E98" fill-rule="nonzero"></path>
+            <path d="M22.5,89.9999905 L22.5,215.91 L111.99375,112.86 C84.5532121,97.8514405 53.7768266,89.9900181 22.5,89.9999905" id="Path" fill="#343741" fill-rule="nonzero"></path>
+            <path d="M131.325,124.914375 L39.49875,230.675625 L31.38375,240 L206.2425,240 C196.640625,192.73125 169.19625,151.978125 131.323125,124.914375" id="Path" fill="#00BFB3" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

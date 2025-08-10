@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sketch</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sketch">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="#FDB300" fill-rule="nonzero" points="52.36875 19.37625 120 12.275625 187.63125 19.378125 240 89.094375 120 227.724375 0 89.094375"></polygon>
+            <path d="M48.609375,89.094375 L120,227.724375 L0,89.094375 L48.609375,89.094375 Z M191.390625,89.094375 L120,227.724375 L240,89.094375 L191.390625,89.094375 Z" id="Shape" fill="#EA6C00" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#FDAD00" fill-rule="nonzero" points="48.609375 89.094375 191.390625 89.094375 120 227.724375"></polygon>
+            <path d="M120,12.275625 L52.36875,19.37625 L48.609375,89.094375 L120,12.275625 Z M120,12.275625 L187.63125,19.37625 L191.390625,89.094375 L120,12.275625 Z" id="Shape" fill="#FDD231" fill-rule="nonzero"></path>
+            <polygon id="Path" fill="#FDAD00" fill-rule="nonzero" points="240 89.094375 187.63125 19.37625 191.390625 89.094375"></polygon>
+            <polygon id="Path" fill="#FEEEB7" fill-rule="nonzero" points="120 12.275625 48.609375 89.094375 191.390625 89.094375"></polygon>
+            <polygon id="Path" fill="#FDAD00" fill-rule="nonzero" points="0 89.094375 52.36875 19.37625 48.609375 89.094375"></polygon>
+        </g>
+    </g>
+</svg>

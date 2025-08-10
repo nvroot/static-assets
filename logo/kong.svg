@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kong</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kong">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(0, 15)" fill-rule="nonzero">
+                <polygon id="Path" fill="#169FCC" points="75.6759375 180.373125 81.40875 172.973438 123.833438 172.973438 145.94625 201.225938 142.015312 210.811875 87.305625 210.811875 88.61625 201.225938"></polygon>
+                <polygon id="Path" fill="#14B59A" points="88.6490625 84.0384375 109.134375 48.64875 133.005 48.64875 240.000938 172.929375 231.705 210.811875 185.825625 210.811875 188.70375 200.177812"></polygon>
+                <polygon id="Path" fill="#1BC263" points="113.514375 41.925 123.3225 23.78625 152.74875 0 203.169375 39.52875 196.630312 46.2028125 205.40625 58.3528125 205.40625 71.3578125 180.282187 91.891875 138.121875 41.925"></polygon>
+                <polygon id="Path" fill="#16BDCC" points="35.5959375 120.961875 48.9234375 120.961875 83.675625 91.891875 129.730313 145.40625 116.740313 164.895937 74.2284375 164.895937 44.874375 202.223437 38.12625 210.811875 0 210.811875 0 165.060937"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

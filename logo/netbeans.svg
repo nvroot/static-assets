@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>netbeans</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="netbeans">
+            <rect id="ViewBox" x="0" y="0" width="240" height="240"></rect>
+            <polyline id="Path" fill="#A6043F" points="120 240 11.66625 180.8325 11.66625 60 53.3325 83.3325 53.3325 156.6675 120 193.33125"></polyline>
+            <polygon id="Path" fill="#95D921" points="11.66625 60 53.3325 83.3325 120 45 186.6675 83.3325 228.33375 60 120 0"></polygon>
+            <polygon id="Path" fill="#DCDFE7" points="120 45 186.6675 83.3325 120 120.8325 53.3325 83.3325"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="53.3325 83.3325 120 120.8325 120 193.333125 53.3325 156.6675"></polygon>
+            <polygon id="Path" fill="#C9DAE9" points="120 120.8325 186.6675 83.3325 186.6675 156.6675 120 193.33125"></polygon>
+            <polyline id="Path" fill="#1D6AC6" points="120 240 228.33375 180.8325 228.33375 60 186.6675 83.3325 186.6675 156.6675 120 193.33125"></polyline>
+            <polyline id="Path" fill="#EA1F5E" points="120 240 11.66625 180.8325 53.3325 156.6675 120 193.33125"></polyline>
+            <polyline id="Path" fill="#2E90E9" points="120 240 228.33375 180.8325 186.6675 156.6675 120 193.33125"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="242px" height="240px" viewBox="0 0 242 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>webgpu</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="webgpu" transform="translate(0.8687, 0)">
+            <rect id="ViewBox" x="0.13125" y="0" width="240" height="240"></rect>
+            <polygon id="Path" fill="#0086E8" fill-rule="nonzero" points="196.018125 82.096875 218.105625 120.361875 218.265 120.091875 240.26625 82.096875"></polygon>
+            <polygon id="Path" fill="#0093FF" fill-rule="nonzero" points="218.1075 44.19 217.95 44.461875 196.018125 82.460625 240.268125 82.460625"></polygon>
+            <polygon id="Path" fill="#0076CC" fill-rule="nonzero" points="130.674375 119.82 174.553125 195.81 174.710625 195.538125 218.42625 119.82"></polygon>
+            <polygon id="Path" fill="#0066B0" fill-rule="nonzero" points="174.553125 44.19 174.395625 44.461875 130.674375 120.18 218.424375 120.18"></polygon>
+            <polygon id="Path" fill="#005A9C" fill-rule="nonzero" points="1.13686838e-13 44.37375 87.43125 195.81 87.590625 195.538125 174.860625 44.37375"></polygon>
+        </g>
+    </g>
+</svg>
