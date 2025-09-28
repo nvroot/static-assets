@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>myscale</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="myscale">
+            <rect id="box" fill="#FFFFFF" x="0" y="0" width="240" height="240" rx="40"></rect>
+            <circle id="oval" fill="#9B95FE" cx="120" cy="120" r="96"></circle>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="76.5668945 163 76.5668945 76.3857422 99.7402344 76.3857422 120.456055 135.467773 140.994629 76.3857422 163.227051 76.3857422 163.227051 163 143.979492 163 143.979492 113.819336 127.786621 163 111.948242 163 95.8144531 113.819336 95.8144531 163"></polygon>
+        </g>
+    </g>
+</svg>

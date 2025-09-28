@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>chroma</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chroma" transform="translate(-37.3559, 119)" fill-rule="nonzero">
+            <rect id="box" opacity="0" x="37.3559339" y="-119" width="240" height="240"></rect>
+            <g id="shape" transform="translate(37, -76)">
+                <ellipse id="ellipse1" fill="#FFDE2D" cx="160.355934" cy="77.1879366" rx="80" ry="77"></ellipse>
+                <ellipse id="ellipse2" fill="#327EFF" cx="80.3559339" cy="77.1879366" rx="80" ry="77"></ellipse>
+                <path d="M160.355934,77.1882554 C160.355934,119.714666 124.538568,154.187937 80.3559339,154.187937 L80.3559339,77.1882554 L160.355934,77.1882554 Z M80.3560539,77.1881351 C80.3560539,34.6620825 116.173068,0.187936616 160.355934,0.187936616 L160.355934,77.1881351 L80.3560539,77.1881351 Z" id="path2" fill="#FF6446"></path>
+            </g>
+        </g>
+    </g>
+</svg>

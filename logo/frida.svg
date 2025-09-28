@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>frida</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="frida" transform="translate(-1, 22)">
+            <rect id="box" fill="#EF6456" x="1" y="-22" width="240" height="240" rx="32"></rect>
+            <path d="M93.0028818,174 L54,174 L86.4380403,124.053846 C67.9020173,115.148718 57.8616715,98.8871795 57.8616715,75.2692308 C57.8616715,41.5846154 80.6455331,23 120.420749,23 L188,23 L188,174 L153.244957,174 L153.244957,131.410256 L120.420749,131.410256 L117.331412,131.410256 L93.0028818,174 Z M154,100 L154,50 L120.944444,50 C101.888889,50 91,57.6923077 91,74.6153846 C91,91.9230769 101.888889,100 120.944444,100 L154,100 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

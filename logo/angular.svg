@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="241px" height="241px" viewBox="0 0 241 241" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>angular</title>
+    <defs>
+        <linearGradient x1="25.2044864%" y1="90.9292007%" x2="95.8860608%" y2="55.1837089%" id="linearGradient-1">
+            <stop stop-color="#E40035" offset="0%"></stop>
+            <stop stop-color="#F60A48" offset="24%"></stop>
+            <stop stop-color="#F20755" offset="35.2%"></stop>
+            <stop stop-color="#DC087D" offset="49.4%"></stop>
+            <stop stop-color="#9717E7" offset="74.5%"></stop>
+            <stop stop-color="#6C00F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.0129826%" y1="12.0575311%" x2="68.2690004%" y2="68.2103006%" id="linearGradient-2">
+            <stop stop-color="#FF31D9" offset="0%"></stop>
+            <stop stop-color="#FF5BE1" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="angular" transform="translate(68.7991, -74.8173)">
-            <rect id="box" x="-68" y="75" width="240" height="240"></rect>
-            <g id="shape" transform="translate(-60, 75)" fill-rule="nonzero">
-                <polygon id="Path" fill="#DD0031" points="111.5 0 0 39.842838 17.0041377 187.559794 111.5 240 205.995862 187.559794 223 39.842838"></polygon>
-                <polygon id="Path" fill="#C3002F" points="111 0 111 26.6412347 111 26.5222195 111 240 205.919611 187.559794 223 39.842838"></polygon>
-                <path d="M111.618648,27 L42,184 L67.9564021,184 L81.9476688,148.864307 L141.043205,148.864307 L155.0436,184 L181,184 L111.618648,27 Z M131.952988,127.211985 L91.2843077,127.211985 L111.618648,78.0054943 L131.952988,127.211985 Z" id="Shape" fill="#FFFFFF"></path>
+        <g id="angular">
+            <rect id="box" x="0" y="0" width="240" height="240"></rect>
+            <g id="shape" transform="translate(7.0662, 0.1337)" fill-rule="nonzero">
+                <path d="M226,39.9911516 L217.839344,168.481807 L139.813947,0 L226,39.9911516 Z M171.956898,206.136264 L113.000509,239.866299 L54.0431022,206.136264 L66.0342494,176.997988 L159.965751,176.997988 L171.956898,206.136264 Z M113.000509,63.952986 L143.893767,139.260879 L82.1062334,139.260879 L113.000509,63.952986 Z M8.07720746,168.481807 L0,39.9911516 L86.1860526,0 L8.07720746,168.481807 Z" id="Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M226,39.9911516 L217.839344,168.481807 L139.813947,0 L226,39.9911516 Z M171.956898,206.136264 L113.000509,239.866299 L54.0431022,206.136264 L66.0342494,176.997988 L159.965751,176.997988 L171.956898,206.136264 Z M113.000509,63.952986 L143.893767,139.260879 L82.1062334,139.260879 L113.000509,63.952986 Z M8.07720746,168.481807 L0,39.9911516 L86.1860526,0 L8.07720746,168.481807 Z" id="Shape" fill="url(#linearGradient-2)"></path>
             </g>
         </g>
     </g>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cronos</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cronos" transform="translate(130, 21)">
+            <rect id="box" x="-130" y="-21" width="240" height="240"></rect>
+            <path d="M-10,-21 L94,39 L94,159 L-9.82695507,219 L-10,219 L-114,159 L-114,39 L-10,-21 Z M-10,14.6127447 L-83.1466667,56.6368876 L-83.1466667,141.190202 L-10,183.380403 L-10,183.553314 L63.1980033,141.363112 L63.1980033,56.8097983 L-10,14.6127447 Z M-9.41354724,43 L39,71 L18.7700535,82.7530864 L-9.58645276,66.3333333 L-37.7700535,82.7530864 L-37.7700535,115.419753 L-9.41354724,131.839506 L18.942959,115.419753 L39,127 L-9.41354724,155 L-58,127 L-58,71 L-9.41354724,43 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

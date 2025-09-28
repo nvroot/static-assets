@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244px" height="244px" viewBox="0 0 244 244" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ethena</title>
+    <defs>
+        <radialGradient cx="50.1121156%" cy="14.5977866%" fx="50.1121156%" fy="14.5977866%" r="105.42081%" id="radialGradient-1">
+            <stop stop-color="#3A3A3A" offset="3.125%"></stop>
+            <stop stop-color="#1C1C1C" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="49.9995039%" y1="-1.9010705%" x2="49.9995039%" y2="101.900261%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#111111" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ethena" transform="translate(2, 2)">
+            <path d="M120,2 L120,2 C185.158664,2 238,54.8413361 238,120 L238,120 C238,185.158664 185.158664,238 120,238 L120,238 C54.8413361,238 2,185.158664 2,120 L2,120 C2,54.8413361 54.8413361,2 120,2 Z" id="Path" stroke="#111111" stroke-width="7.0571" fill="#111111" fill-rule="nonzero"></path>
+            <path d="M120,0 L120,0 C53.6955407,0 0,53.6955407 0,120 L0,120 C0,186.242952 53.6955407,240 120,240 L120,240 C186.242952,240 240,186.304459 240,120 L240,120 C240,53.6955407 186.242952,0 120,0 Z" id="Path" fill-opacity="0.7" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+            <path d="M120,2 L120,2 C185.192689,2 238,54.8073107 238,120 L238,120 C238,185.192689 185.192689,238 120,238 L120,238 C54.8073107,238 2,185.192689 2,120 L2,120 C2,54.8073107 54.8073107,2 120,2 Z" id="Path" stroke="url(#linearGradient-2)" stroke-width="7.1464"></path>
+            <path d="M94.1677479,64 L91.57924,64 L89.9151993,65.9757442 L47.081557,116.418964 L44,120 L47.081557,123.581036 L89.9768304,174.024256 L91.6408712,176 L94.2293791,176 L171.453197,176 L177,176 L177,170.443219 L177,138.337376 L165.906395,138.337376 L165.906395,164.886439 L106.370714,164.886439 L141.993513,123.642778 L145.136701,120 L141.993513,116.357222 L106.370714,75.1135612 L165.906395,75.1135612 L165.906395,101.662624 L177,101.662624 L177,69.5567806 L177,64 L171.453197,64 L94.1677479,64 L94.1677479,64 Z M94.2293791,78.0771775 L58.6065802,120 L94.2293791,161.922822 L130.406858,120 L94.2293791,78.0771775 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
